@@ -1,49 +1,1059 @@
-<div align="center">
-  <a href="https://github.com/VKCOM">
-    <img width="100" height="100" src="https://avatars3.githubusercontent.com/u/1478241?s=200&v=4">
-  </a>
-  <br>
-  <br>
+DOCTYPE html>
+<html lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Главная страница</title>
+<meta name="viewport" content="width=device-width">
+<script>(function(){setVP();window.addEventListener("orientationchange", setVP, false);function setVP() {var w = (!window.orientation || window.orientation == 180) ? screen.width : screen.height;var v = 'device-width';if (w >= 768 && w < 1024) v = '1024';else if (w >= 1024 && w <= 1200) v = '1200';document.head.querySelector("[name=viewport]").setAttribute("content","width=" + v);}}());</script><meta property="og:type" content="website">
+<meta property="og:title" content="Главная страница">
+<meta property="og:description" content="">
+<meta property="og:url" content="https://propiarrimm.website/">
+<meta property="og:image" content="https://propiarrimm.website/img/16794315_1200.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="670">
+<link rel="canonical" href="https://propiarrimm.website/">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700&text=₽" rel="stylesheet"><style id="_core.css">*{box-sizing:border-box;font-smooth:always;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:auto}*,:focus{outline:none;-webkit-focus-ring-color:transparent;-webkit-tap-highlight-color:transparent}body,html{width:100%;margin:0;-webkit-overflow-scrolling:touch}html{height:100%;min-height:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{word-break:break-word;word-wrap:break-word;overflow-wrap:break-word}a{text-decoration:none;-webkit-hyphens:manual;-ms-hyphens:manual;hyphens:manual;pointer-events:all}a,a:active,a:visited{color:inherit;outline:none}ol a,p a,ul a{text-decoration:underline;transition:opacity .3s cubic-bezier(.21,.67,.58,1)}.is-pointer ol a:hover,.is-pointer p a:hover,.is-pointer ul a:hover{text-decoration:none;opacity:.7}ol img,p img,ul img{height:auto!important}svg{max-width:100%;max-height:100%;fill:currentColor;fill-rule:evenodd}h1,h2,h3,h4,h5,ol,p,ul{margin:0}ol,ul{padding-left:1.75em}img{max-width:100%;width:auto\9;height:auto;vertical-align:middle;border:0;-ms-interpolation-mode:bicubic}button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle}button,input{overflow:visible;line-height:normal}button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0}textarea{overflow:auto;vertical-align:top}.close-times{font-size:1.125rem;width:2em;height:2em;margin-top:-.5em;margin-right:-.5em;z-index:99;background-repeat:no-repeat;background-position:50%;cursor:pointer;color:currentColor;opacity:1;transition:opacity .18s cubic-bezier(.21,.67,.58,1);transform:translateZ(0);pointer-events:all;will-change:transform,opacity;outline:none}.is-pointer .close-times:hover{text-decoration:none;opacity:.65}.close-times:after,.close-times:before{display:block;content:"";width:2px;height:1.3em;background:currentColor;position:absolute;left:-1px;right:0;top:0;margin-top:.35em;margin-left:1em}.close-times:before{transform:rotate(45deg)}.close-times:after{transform:rotate(-45deg)}
+.font-size-text{font-size:1rem;font-weight:400;line-height:1.5}.font-size-note{font-size:.875rem}.font-size-note,.font-size-tiny{font-weight:400;line-height:1.37}.font-size-tiny{font-size:.75rem}.font-size-quote{font-size:1.5rem;font-weight:400;line-height:1.37}.font-size-h1{font-size:3rem;line-height:1.2}.font-size-h2{font-size:2.5rem;line-height:1.2}.font-size-h3{font-size:1.875rem;line-height:1.2}.font-size-h4{font-size:1.625rem;line-height:1.37}.font-size-h5{font-size:1.375rem;line-height:1.37}.font-size-h6{font-size:1.125rem;line-height:1.37}}.scrollable::-webkit-scrollbar-button:end:increment,.scrollable::-webkit-scrollbar-button:start:decrement{width:5px;height:5px;display:block;background-color:transparent}.text-nowrap,.text-truncate{white-space:nowrap}.text-truncate{overflow:hidden;text-overflow:ellipsis}.text-justify{text-align:justify}.text-left{text-align:left}.text-right{text-align:right}.text-center{text-align:center}.text-lowercase{text-transform:lowercase}.text-uppercase{text-transform:uppercase}.text-capitalize{text-transform:capitalize}.text-keep-wrap{word-break:keep-all;word-wrap:normal;overflow-wrap:normal}.font-weight-light{font-weight:300}.font-weight-normal{font-weight:400}.font-weight-medium{font-weight:500}.font-weight-bold{font-weight:700}.font-italic{font-style:italic}.flex{display:flex}.inline-flex{display:inline-flex}.flex-row{flex-direction:row}.flex-column{flex-direction:column}.flex-row-reverse{flex-direction:row-reverse}.flex-column-reverse{flex-direction:column-reverse}.flex-wrap{flex-wrap:wrap}.flex-nowrap{flex-wrap:nowrap}.flex-wrap-reverse{flex-wrap:wrap-reverse}.justify-content-start{justify-content:flex-start}.justify-content-end{justify-content:flex-end}.justify-content-center{justify-content:center}.justify-content-between{justify-content:space-between}.justify-content-around{justify-content:space-around}.align-items-start{align-items:flex-start}.align-items-end{align-items:flex-end}.align-items-center{align-items:center}.align-items-baseline{align-items:baseline}.align-items-stretch{align-items:stretch}.align-content-start{align-content:flex-start}.align-content-end{align-content:flex-end}.align-content-center{align-content:center}.align-content-between{align-content:space-between}.align-content-around{align-content:space-around}.align-content-stretch{align-content:stretch}.align-self-auto{align-self:auto}.align-self-start{align-self:flex-start}.align-self-end{align-self:flex-end}.align-self-center{align-self:center}.align-self-baseline{align-self:baseline}.align-self-stretch{align-self:stretch}
+@keyframes shake{10%,90%{transform:translate3d(-1px,0,0)}20%,80%{transform:translate3d(2px,0,0)}30%,60%{transform:translate3d(-3px,0,0)}45%{transform:translate3d(3px,0,0)}}@keyframes slideDown{0%{transform:translateY(-10px);opacity:0}to{transform:translateY(0);opacity:1}}@keyframes slideUp{0%{transform:translateY(10px);opacity:0}to{transform:translateY(0);opacity:1}}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}@keyframes slideLeft{0%{transform:translateX(-10px);opacity:0}to{transform:translateX(0);opacity:1}}@keyframes slideRight{0%{transform:translateX(10px);opacity:0}to{transform:translateX(0);opacity:1}}@keyframes show-menu{0%{opacity:0;transform:translateY(-25px)}to{opacity:1;transform:translateY(0)}}@keyframes scale-up-down{50%{transform:scale(1.3)}}@keyframes circular-loader{0%{stroke-dasharray:1,200;stroke-dashoffset:0}50%{stroke-dasharray:89,200;stroke-dashoffset:-35}to{stroke-dasharray:89,200;stroke-dashoffset:-124}}@keyframes checkAppearance{0%{width:0}to{width:100%}}@keyframes sSpin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes swipeAnimation{0%{transform:translateX(0);opacity:0}19%{transform:translateX(0);opacity:1}30%{opacity:1}81%{transform:translateX(-120px);opacity:0}to{transform:translateX(0);opacity:0}}
+body{min-width:980px;color:#1b1b1c;background-color:#fff}.responsive-hide-all.b_block,.responsive-hide-all.element-item{display:none}@media (max-width:767px){.adaptive .responsive-hide-mobile.b_block,.adaptive .responsive-hide-mobile.element-item{display:none}}@media (min-width:768px){.adaptive .responsive-hide-desktop.b_block,.adaptive .responsive-hide-desktop.element-item{display:none}}.container{width:71.875rem;margin:0 auto;display:flex;flex-flow:row wrap}@media (max-width:1199px){.container{width:59.375rem}}.container.full-width{width:100%}.container.full-width .flexbe-cards-list{max-width:100%;margin-right:0;margin-left:0}.cover{min-height:540px;min-height:100vh;height:auto;align-items:center;align-content:center}[data-contrast=dark],[data-contrast] [data-contrast=dark]{color:#1b1b1c}[data-contrast=light],[data-contrast] [data-contrast=light]{color:#fff}.radius-small{border-radius:.3125rem;overflow:hidden;-webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC)}.col-0,[data-cols="0"]{flex-basis:0%;max-width:0}.col-1,[data-cols="1"]{flex-basis:4.16666667%;max-width:4.16666667%}.col-2,[data-cols="2"]{flex-basis:8.33333333%;max-width:8.33333333%}.col-3,[data-cols="3"]{flex-basis:12.5%;max-width:12.5%}.col-4,[data-cols="4"]{flex-basis:16.66666667%;max-width:16.66666667%}.col-5,[data-cols="5"]{flex-basis:20.83333333%;max-width:20.83333333%}.col-6,[data-cols="6"]{flex-basis:25%;max-width:25%}.col-7,[data-cols="7"]{flex-basis:29.16666667%;max-width:29.16666667%}.col-8,[data-cols="8"]{flex-basis:33.33333333%;max-width:33.33333333%}.col-9,[data-cols="9"]{flex-basis:37.5%;max-width:37.5%}.col-10,[data-cols="10"]{flex-basis:41.66666667%;max-width:41.66666667%}.col-11,[data-cols="11"]{flex-basis:45.83333333%;max-width:45.83333333%}.col-12,[data-cols="12"]{flex-basis:50%;max-width:50%}.col-13,[data-cols="13"]{flex-basis:54.16666667%;max-width:54.16666667%}.col-14,[data-cols="14"]{flex-basis:58.33333333%;max-width:58.33333333%}.col-15,[data-cols="15"]{flex-basis:62.5%;max-width:62.5%}.col-16,[data-cols="16"]{flex-basis:66.66666667%;max-width:66.66666667%}.col-17,[data-cols="17"]{flex-basis:70.83333333%;max-width:70.83333333%}.col-18,[data-cols="18"]{flex-basis:75%;max-width:75%}.col-19,[data-cols="19"]{flex-basis:79.16666667%;max-width:79.16666667%}.col-20,[data-cols="20"]{flex-basis:83.33333333%;max-width:83.33333333%}.col-21,[data-cols="21"]{flex-basis:87.5%;max-width:87.5%}.col-22,[data-cols="22"]{flex-basis:91.66666667%;max-width:91.66666667%}.col-23,[data-cols="23"]{flex-basis:95.83333333%;max-width:95.83333333%}.col-24,[data-cols="24"]{flex-basis:100%;max-width:100%}.col-0,[data-cols="0"]{padding:0!important;margin:0!important;width:0!important;max-width:0!important;opacity:0;visibility:hidden}.layout-type-title{margin-bottom:3.125rem}.gap-small{margin:-.75rem;max-width:calc(100% + 1.5rem)}.gap-small .flexbe-card,.gap-small .flexbe-column{padding:.75rem}.gap-normal{margin:-1.5625rem;max-width:calc(100% + 3.125rem)}.gap-normal .flexbe-card,.gap-normal .flexbe-column{padding:1.5625rem}.gap-zero .radius-small{border-radius:0}.gap-zero .first-column .radius-small{border-top-left-radius:.3125rem;border-bottom-left-radius:.3125rem}.gap-zero .last-column .radius-small{border-top-right-radius:.3125rem;border-bottom-right-radius:.3125rem}@media (max-width:1199px){.gap-small{margin:-.4375rem;max-width:calc(100% + .875rem)}.gap-small .flexbe-card,.gap-small .flexbe-column{padding:.4375rem}.gap-normal{margin:-.9375rem;max-width:calc(100% + 1.875rem)}.gap-normal .flexbe-card,.gap-normal .flexbe-column{padding:.9375rem}}
+.b_block{position:relative;z-index:auto}.b_block.hidden{display:none}.b_block~.b_block{margin-top:-1px}.container-fluid{position:relative}@media (max-width:1199px){.container-fluid{overflow:hidden}}
+.cards-1 .flexbe-card,.flexbe-cards .flexbe-card.card-1{flex-basis:100%;max-width:100%}.cards-2 .flexbe-card,.flexbe-cards .flexbe-card.card-2{flex-basis:50%;max-width:50%}.cards-3 .flexbe-card,.flexbe-cards .flexbe-card.card-3{flex-basis:33.33333333%;max-width:33.33333333%}.cards-4 .flexbe-card,.flexbe-cards .flexbe-card.card-4{flex-basis:25%;max-width:25%}.cards-5 .flexbe-card,.flexbe-cards .flexbe-card.card-5{flex-basis:20%;max-width:20%}.cards-6 .flexbe-card,.flexbe-cards .flexbe-card.card-6{flex-basis:16.66666667%;max-width:16.66666667%}.flexbe-cards-root{display:flex;flex-flow:row wrap;position:relative;flex-shrink:0}.flexbe-cards-root .slider-pagination--cards{width:100%;position:relative;margin:1.5625rem auto;padding:0}.flexbe-cards-root .slider-pagination--cards.size--small{margin:20px auto}.flexbe-cards-root .slider-pagination--cards.position--inside{margin:0 auto 20px}.flexbe-cards-root .slider-button--cards{padding:0 1.25rem}.flexbe-cards-root .slider-button--cards[data-direction=prev]{left:auto;right:100%}.flexbe-cards-root .slider-button--cards[data-direction=next]{right:auto;left:100%}.flexbe-cards-root.cards-gap-small{padding:0 1.5rem}@media (max-width:1199px){.flexbe-cards-root.cards-gap-small{padding:0 .875rem}}.flexbe-cards-root.cards-gap-normal{padding:0 3.125rem}@media (max-width:1199px){.flexbe-cards-root.cards-gap-normal{padding:0 1.875rem}}.flexbe-cards-root.full-width .slider-button--cards[data-direction=prev]{left:0;right:auto}.flexbe-cards-root.full-width .slider-button--cards[data-direction=next]{right:0;left:auto}.flexbe-cards-container{width:100%;position:relative;flex-grow:1;flex-shrink:0;display:flex;z-index:1;flex-flow:row wrap}.flexbe-cards-wrapper{width:100%}.flexbe-cards-slider.swiper-inited .flexbe-cards{flex-wrap:nowrap;justify-content:flex-start}.flexbe-cards{width:100%;display:flex;flex-shrink:0;flex-grow:1;flex-flow:row wrap}.flexbe-cards.less-columns{justify-content:center}.flexbe-card{display:flex;flex-grow:1;flex-shrink:0}@media (min-width:1024px) and (max-width:1100px),(min-width:1200px) and (max-width:1330px){.flexbe-cards-root.normal-width .slider-button--cards[data-direction=prev]{padding-left:0;padding-right:.625rem}.flexbe-cards-root.normal-width .slider-button--cards[data-direction=next]{padding-left:.625rem;padding-right:0}}@media (min-width:1200px) and (max-width:1275px){.flexbe-cards-root.normal-width.slider-active.slider-has-buttons .flexbe-cards-container{max-width:1050px;flex-grow:0;margin:0 auto}}@media (min-width:768px) and (max-width:1080px){.flexbe-cards-root.normal-width .slider-button--cards[data-direction=prev]{padding:0;margin-right:-1.5625rem}.flexbe-cards-root.normal-width .slider-button--cards[data-direction=next]{padding:0;margin-left:-1.5625rem}}
+.px-10{padding-left:.625rem;padding-right:.625rem}.px-10>.no-gutter{margin-left:-.625rem;margin-right:-.625rem;width:calc(100% + 1.25rem)}.py-10{padding-top:.625rem;padding-bottom:.625rem}.py-10>.no-gutter.is-first-child{margin-bottom:-.625rem}.py-10>.no-gutter.is-first-child,.py-10>.no-gutter.is-last-child{margin-top:-.625rem}.py-10>.no-gutter.is-last-child{margin-bottom:-.625rem}.px-20{padding-left:1.25rem;padding-right:1.25rem}.px-20>.no-gutter{margin-left:-1.25rem;margin-right:-1.25rem;width:calc(100% + 2.5rem)}.py-20{padding-top:1.25rem;padding-bottom:1.25rem}.py-20>.no-gutter.is-first-child{margin-bottom:0}.py-20>.no-gutter.is-last-child{margin-top:0}.py-20>.no-gutter.is-first-child{margin-top:-1.25rem}.py-20>.no-gutter.is-last-child{margin-bottom:-1.25rem}.px-30{padding-left:1.875rem;padding-right:1.875rem}.px-30>.no-gutter{margin-left:-1.875rem;margin-right:-1.875rem;width:calc(100% + 3.75rem)}.py-30{padding-top:1.875rem;padding-bottom:1.875rem}.py-30>.no-gutter.is-first-child{margin-bottom:.625rem}.py-30>.no-gutter.is-last-child{margin-top:.625rem}.py-30>.no-gutter.is-first-child{margin-top:-1.875rem}.py-30>.no-gutter.is-last-child{margin-bottom:-1.875rem}.px-40{padding-left:2.5rem;padding-right:2.5rem}.px-40>.no-gutter{margin-left:-2.5rem;margin-right:-2.5rem;width:calc(100% + 5rem)}.py-40{padding-top:2.5rem;padding-bottom:2.5rem}.py-40>.no-gutter.is-first-child{margin-bottom:1.25rem}.py-40>.no-gutter.is-last-child{margin-top:1.25rem}.py-40>.no-gutter.is-first-child{margin-top:-2.5rem}.py-40>.no-gutter.is-last-child{margin-bottom:-2.5rem}.px-50{padding-left:3.125rem;padding-right:3.125rem}.px-50>.no-gutter{margin-left:-3.125rem;margin-right:-3.125rem;width:calc(100% + 6.25rem)}.py-50{padding-top:3.125rem;padding-bottom:3.125rem}.py-50>.no-gutter.is-first-child{margin-bottom:1.875rem}.py-50>.no-gutter.is-last-child{margin-top:1.875rem}.py-50>.no-gutter.is-first-child{margin-top:-3.125rem}.py-50>.no-gutter.is-last-child{margin-bottom:-3.125rem}.py-0>.no-gutter.is-first-child{margin-bottom:-.625rem}.py-0>.no-gutter.is-last-child{margin-top:-.625rem}.py-0>.no-gutter.is-first-child{margin-top:0}.py-0>.no-gutter.is-last-child{margin-bottom:0}.element-item{display:flex;position:relative;flex-shrink:0;flex-grow:0;min-height:32px;width:100%}.element-item.is-first-child{margin-top:-.625rem}.element-item.is-last-child{margin-bottom:-.625rem}.no-gutter.is-first-child{margin-top:0}.no-gutter.is-first-child .element-content{padding-top:0}.no-gutter.is-last-child{margin-bottom:0}.no-gutter.is-last-child .element-content{padding-bottom:0}.fill-space{flex-grow:1;align-items:stretch}.element-content{display:flex;flex-flow:row wrap;position:relative;width:100%;z-index:1}[data-mr="1"]{padding-right:5%}[data-ml="1"]{padding-left:5%}[data-mr="2"]{padding-right:10%}[data-ml="2"]{padding-left:10%}[data-mr="3"]{padding-right:15%}[data-ml="3"]{padding-left:15%}[data-mr="4"]{padding-right:20%}[data-ml="4"]{padding-left:20%}[data-mr="5"]{padding-right:25%}[data-ml="5"]{padding-left:25%}[data-mr="6"]{padding-right:30%}[data-ml="6"]{padding-left:30%}[data-mr="7"]{padding-right:35%}[data-ml="7"]{padding-left:35%}[data-mr="8"]{padding-right:40%}[data-ml="8"]{padding-left:40%}[data-mr="9"]{padding-right:45%}[data-ml="9"]{padding-left:45%}[data-mr="10"]{padding-right:50%}[data-ml="10"]{padding-left:50%}[data-mr="11"]{padding-right:55%}[data-ml="11"]{padding-left:55%}[data-mr="12"]{padding-right:60%}[data-ml="12"]{padding-left:60%}[data-mr="13"]{padding-right:65%}[data-ml="13"]{padding-left:65%}[data-mr="14"]{padding-right:70%}[data-ml="14"]{padding-left:70%}[data-mr="15"]{padding-right:75%}[data-ml="15"]{padding-left:75%}[data-mr="16"]{padding-right:80%}[data-ml="16"]{padding-left:80%}[data-mr="17"]{padding-right:85%}[data-ml="17"]{padding-left:85%}[data-mr="18"]{padding-right:90%}[data-ml="18"]{padding-left:90%}[data-mr="19"]{padding-right:95%}[data-ml="19"]{padding-left:95%}[data-mr="20"]{padding-right:100%}[data-ml="20"]{padding-left:100%}
+.flexbe-row-list{flex-basis:100%;min-width:100%;position:relative;flex-flow:column}.flexbe-row,.flexbe-row-list{flex-grow:1;flex-shrink:0;display:flex}.flexbe-row{max-width:100%;flex-flow:row nowrap}.flexbe-column{display:flex;flex-grow:1;flex-shrink:0}
+.modal-list{display:none;width:100%;height:100%;position:fixed;-webkit-backface-visibility:hidden;backface-visibility:hidden;top:0;bottom:0;left:0;right:0;z-index:15}.modal-list.show{display:flex}.m_modal{position:absolute;z-index:0;top:0;left:0;right:0;bottom:0;width:100%;height:100%;display:none;-webkit-backface-visibility:hidden;backface-visibility:hidden}.m_modal.show{display:block;z-index:1}.m_modal .modal-data{position:relative;z-index:1;height:100%;display:flex;justify-content:center;align-items:center}.m_modal .modal-data>.close-times{position:fixed;top:40px;right:40px}.m_modal .scroller{padding:70px 0;max-height:100vh;width:100%;height:100%;display:flex;align-items:flex-start;justify-content:center;position:relative;pointer-events:all;overflow-x:hidden;overflow-y:auto;-webkit-overflow-scrolling:touch}.m_modal .modal-content{position:relative;margin:auto;animation:slideUp .35s ease 1 both}.m_modal .component-bg{animation:fadeIn .18s linear 1 both}
+.flexbe-copyright{position:relative;display:flex;flex-flow:row;align-items:center;justify-content:center;height:3.125rem;color:#fff}.flexbe-copyright .flexbe-copyright-bg{background-color:#1b1b1c;top:0;left:0;right:0;width:100%;max-width:100%;height:100%;z-index:0;position:absolute}.flexbe-copyright .flexbe-copyright-link{position:relative;font-size:.8125rem;line-height:1rem;color:inherit;display:inline-flex;opacity:1;z-index:1;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flexbe-copyright .flexbe-copyright-link span{opacity:.7;margin-right:1ex;transition:opacity .3s ease}.flexbe-copyright .flexbe-copyright-link svg{margin-top:-2px}.is-pointer .flexbe-copyright .flexbe-copyright-link:hover{text-decoration:none}.is-pointer .flexbe-copyright .flexbe-copyright-link:hover span{opacity:1}.cart-button{width:60px;height:60px;border-radius:50%;padding:12px;display:flex;align-items:center;justify-content:center;-webkit-backface-visibility:hidden;backface-visibility:hidden;pointer-events:all;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:opacity .18s cubic-bezier(.21,.67,.58,1),visibility .18s cubic-bezier(.21,.67,.58,1)}.is-pointer .cart-button:hover:before{transform:scale(1.05)}.cart-button.blink{animation:scale-up-down .3s cubic-bezier(.21,.67,.58,1) 0s 1}.cart-button.hide{opacity:0;visibility:hidden;pointer-events:none!important}.cart-button svg{flex-shrink:0;display:block;fill-rule:evenodd;fill:currentColor;transition:transform .3s cubic-bezier(.21,.67,.58,1);z-index:1}.cart-button:before{content:"";top:0;left:0;width:60px;height:60px;z-index:0}.cart-button:after,.cart-button:before{display:block;position:absolute;border-radius:50%;color:#fff;transition:transform .3s cubic-bezier(.21,.67,.58,1)}.cart-button:after{content:attr(data-count);z-index:1;margin:0;right:-.3125rem;top:-.3125rem;width:1.5rem;height:1.5rem;box-sizing:border-box;background-color:#ea7f54;text-align:center;font-size:.75rem;line-height:1.5rem;font-weight:500;white-space:nowrap}
+.widget-list{display:none;position:relative}body.ready .widget-list{display:block;position:absolute;top:0;width:100%}.widget-list .container-error{display:none}</style><style id="_animations.css">@keyframes animationScaleBg{0%{opacity:.8;transform:scale(1.02)}to{opacity:1;transform:translateZ(0)}}@keyframes animationSlideUp{0%{opacity:0;transform:translateY(15px)}50%{opacity:1}to{transform:translateY(0);opacity:1}}
+.animation--fade_in .b_block .component-bg .image-holder{opacity:.8;transform:scale(1.02);transition:transform .65s ease,opacity .65s ease}.animation--fade_in .b_block .flexbe-card,.animation--fade_in .b_block .flexbe-column,.animation--fade_in .b_block .layout-type-header,.animation--fade_in .b_block .layout-type-quiz,.animation--fade_in .b_block .layout-type-title{opacity:0;transform:translateZ(0);transition:opacity 1s ease}.animation--fade_in .b_block .flexbe-card,.animation--fade_in .b_block .flexbe-column{transition-delay:.77s}.animation--fade_in .b_block .flexbe-card:first-child,.animation--fade_in .b_block .flexbe-column:first-child{transition-delay:50ms}.animation--fade_in .b_block .flexbe-card:nth-child(2),.animation--fade_in .b_block .flexbe-column:nth-child(2){transition-delay:.13s}.animation--fade_in .b_block .flexbe-card:nth-child(3),.animation--fade_in .b_block .flexbe-column:nth-child(3){transition-delay:.21s}.animation--fade_in .b_block .flexbe-card:nth-child(4),.animation--fade_in .b_block .flexbe-column:nth-child(4){transition-delay:.29s}.animation--fade_in .b_block .flexbe-card:nth-child(5),.animation--fade_in .b_block .flexbe-column:nth-child(5){transition-delay:.37s}.animation--fade_in .b_block .flexbe-card:nth-child(6),.animation--fade_in .b_block .flexbe-column:nth-child(6){transition-delay:.45s}.animation--fade_in .b_block .flexbe-card:nth-child(7),.animation--fade_in .b_block .flexbe-column:nth-child(7){transition-delay:.53s}.animation--fade_in .b_block .flexbe-card:nth-child(8),.animation--fade_in .b_block .flexbe-column:nth-child(8){transition-delay:.61s}.animation--fade_in .b_block.was-view .component-bg .image-holder,.animation--fade_in .b_block.was-view .flexbe-card,.animation--fade_in .b_block.was-view .flexbe-column,.animation--fade_in .b_block.was-view .layout-type-header,.animation--fade_in .b_block.was-view .layout-type-quiz,.animation--fade_in .b_block.was-view .layout-type-title{opacity:1;transform:none}.animation--fade_in .m_modal .component-bg .image-holder{animation:animationScaleBg .65s ease both}.animation--fade_in .m_modal .modal-content{animation:fadeIn .65s ease 1 both}
+.animation--slide_up .b_block .component-bg .image-holder{opacity:.8;transform:scale(1.02);transition:transform .65s ease,opacity .65s ease}.animation--slide_up .b_block .element-item,.animation--slide_up .b_block .flexbe-card,.animation--slide_up .b_block .layout-type-header,.animation--slide_up .b_block .layout-type-tabs,.animation--slide_up .b_block .quiz-fields,.animation--slide_up .b_block .quiz-progress,.animation--slide_up .b_block .step-title{opacity:0;transform:translateY(15px);transition:transform 1s cubic-bezier(.21,.67,.58,1),opacity .5s cubic-bezier(.21,.67,.58,1)}.animation--slide_up .b_block .flexbe-card .element-item,.animation--slide_up .b_block .layout-type-header .element-item{opacity:1;transform:translateY(0);transition:none}.animation--slide_up .b_block .element-item{transition-delay:1.35s}.animation--slide_up .b_block .element-item:first-child{transition-delay:0ms}.animation--slide_up .b_block .element-item:nth-child(2){transition-delay:.15s}.animation--slide_up .b_block .element-item:nth-child(3){transition-delay:.3s}.animation--slide_up .b_block .element-item:nth-child(4){transition-delay:.45s}.animation--slide_up .b_block .element-item:nth-child(5){transition-delay:.6s}.animation--slide_up .b_block .element-item:nth-child(6){transition-delay:.75s}.animation--slide_up .b_block .element-item:nth-child(7){transition-delay:.9s}.animation--slide_up .b_block .element-item:nth-child(8){transition-delay:1.05s}.animation--slide_up .b_block .flexbe-card{transition-delay:1.4s}.animation--slide_up .b_block .flexbe-card:first-child{transition-delay:50ms}.animation--slide_up .b_block .flexbe-card:nth-child(2){transition-delay:.2s}.animation--slide_up .b_block .flexbe-card:nth-child(3){transition-delay:.35s}.animation--slide_up .b_block .flexbe-card:nth-child(4){transition-delay:.5s}.animation--slide_up .b_block .flexbe-card:nth-child(5){transition-delay:.65s}.animation--slide_up .b_block .flexbe-card:nth-child(6){transition-delay:.8s}.animation--slide_up .b_block .flexbe-card:nth-child(7){transition-delay:.95s}.animation--slide_up .b_block .flexbe-card:nth-child(8){transition-delay:1.1s}.animation--slide_up .b_block .step-title{transition-delay:.15s}.animation--slide_up .b_block .quiz-fields{transition-delay:.3s}.animation--slide_up .b_block.was-view .component-bg .image-holder,.animation--slide_up .b_block.was-view .element-item,.animation--slide_up .b_block.was-view .flexbe-card,.animation--slide_up .b_block.was-view .layout-type-header,.animation--slide_up .b_block.was-view .layout-type-tabs,.animation--slide_up .b_block.was-view .quiz-fields,.animation--slide_up .b_block.was-view .quiz-progress,.animation--slide_up .b_block.was-view .step-title{opacity:1;transform:none}.animation--slide_up .m_modal .component-bg .image-holder{animation:animationScaleBg .65s ease both}.animation--slide_up .m_modal .modal-content{animation:animationSlideUp .65s cubic-bezier(.21,.67,.58,1) 1 both}</style><link id="_components.css" href="/_s/theme/4/_components.css?1580463174059" rel="stylesheet" type="text/css">
+<link id="_adaptive.css" href="/_s/theme/4/_adaptive.css?1580463174059" rel="stylesheet" type="text/css">
+<link id="_fixes.css" href="/_s/theme/4/_fixes.css?1580463174059" rel="stylesheet" type="text/css">
+<link id="834854_1580390471.css" href="/_app/lp/834854_1580390471.css" rel="stylesheet" type="text/css">
+</head>
+<body class="is-view adaptive animation--slide_up" id='body-content'>
 
-  [![npm][npm]][npm-url]
-  [![deps][deps]][deps-url]
-
-</div>
-
-# VK Mini Apps: @vkontakte/create-vk-mini-app
-
-## How to install
-
-### Create VK Mini App with gh-pages deploy
-
-`npx @vkontakte/create-vk-mini-app <app-directory-name>`
-
-### Create VK Mini App with Zeit deploy
-
-Firstly, you have to create Zeit account and connect it with your GitHub profile — https://zeit.co/
-
-`npx @vkontakte/create-vk-mini-app <app-directory-name> --zeit`
-
-### Create VK Mini App with Surge deploy
-
-Firstly, you have to create Surge account and Surge-domain — https://surge.sh/
-
-`npx @vkontakte/create-vk-mini-app <app-directory-name> --surge <surge-domain>`
-
-## Use Connect lib based on promise
-Just add `--promise` flag. More info about **vkui-connect-promise** — https://www.npmjs.com/package/@vkontakte/vkui-connect-promise
-
-`npx @vkontakte/create-vk-mini-app <app-directory-name> --promise`
-
-## How to start work with app
-
-Go to created folder and run:
-`yarn start` || `npm start` — this will start dev server with hot reload on `localhost:10888`.
-
-`yarn run build` || `npm run build` — this will build production bundle, with tree-shaking, uglify and all this modern fancy stuff
-
-[npm]: https://img.shields.io/npm/v/@vkontakte/create-vk-mini-app.svg
-[npm-url]: https://npmjs.com/package/@vkontakte/create-vk-mini-app
-
-[deps]: https://img.shields.io/david/vkcom/create-vk-mini-app.svg
-[deps-url]: https://david-dm.org/vkcom/create-vk-mini-app
+                
+                <div class="container-list"><div class="b_block b_block b_600749" data-is="block" data-id="600749" data-b-id="GRID" data-mod-id="12"      data-b-type='[&quot;cover&quot;,&quot;has_header&quot;]' data-components='[&quot;background&quot;]'> <div class="container-fluid" data-contrast="light"> <a class="_anchor" name="cover"></a><div class="component-bg bg-image loading "
+        data-type="image"
+        data-parallax="0"
+                data-component="background"><div class="image-holder"><div class="image" style="background-color: #BA75DB;"><div class="loader-image average" data-src="/img/16724131_1920.png" style="background-color: #BA75DB;"></div></div></div><div class="overlay " data-opacity="0.4"></div></div><div class="container-wrapper cover"><div class="header-area"><div class="header-wrapper hidden-all-m"
+        data-fixed-color="dark"
+        data-fixed-contrast="light"
+        ><div class="content-zone header-content layout-type-header header-content--desktop container"
+    data-is="zone"
+    data-id="997308"
+    data-e-id="zone_header"
+    data-mod-id="0"
+    data-zone-type="header"
+    data-components="[]"
+    ><div class="elements-list elements-list--horizontal flexbe-row" data-direction="x"><div class="element-item"   data-item-id="1" data-cols="6" data-is="element" data-id="159296" data-e-id="header_logo" data-mod-id="0"  data-components='[&quot;logo&quot;]'   ><div class="element-content justify-content-start" data-content="logo"><div class="component-logo" data-component="logo" style="font-size: 48px"><div class="component-logo-img"
+                            style="background-image: url('/img/16723976_288.png'); padding-bottom: 100%"
+            ><a href="https://vk.com/public191276136" target="_blank"></a></div></div></div></div><div class="element-item"   data-item-id="2" data-cols="12" data-is="element" data-id="369212" data-e-id="header_menu" data-mod-id="0"  data-components='[&quot;menu&quot;]'   ><div class="element-content justify-content-center"><nav class="component-menu text-style-menu overflow weight--normal size--medium style--progress" data-type="click" data-show_more="true" data-direction="row" data-component="menu"><ul class="component-menu-list nowrap-list"><li class="menu-item root-item "><a class="menu-item-text" href="#b617970" ><span>Заказать рекламу</span></a></li><li class="menu-item root-item "><a class="menu-item-text" href="#b488278" ><span>VIPpiar (посмотреть рекламу)</span></a></li><li class="menu-item root-item "><a class="menu-item-text" href="#b764853" ><span>FREEpiar (посмотреть рекламу)</span></a></li><li class="menu-item root-item "><a class="menu-item-text" href="#opinions" ><span>Новости сервиса</span></a></li><li class="menu-item root-item "><a class="menu-item-text" href="#contacts" ><span>Как заказать рекламу (видеоурок)</span></a></li></ul></nav></div></div><div class="element-item"   data-item-id="3" data-cols="6" data-is="element" data-id="514883" data-e-id="header_spacer" data-mod-id="0"  data-components='[]'   ></div></div></div></div></div><div class="main-area"><div
+        class="layout-type-column container container-main lg-container"
+            ><div
+            class="flexbe-row-list gap-normal gap-am-normal"
+                    ><div class=" flexbe-row align-items-stretch justify-content-start" data-item-id="1"><div class="content-zone flexbe-column only-column first-column last-column fill-none radius-zero"
+    data-is="zone"
+    data-id="437405"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="column"
+    data-components="[]"
+            data-cols="24"
+            data-item-id="1"
+    ><div class="elements-list elements-list--vertical fill-none radius-zero px-0 py-0 align-items-center justify-content-center text-center" data-direction="y"><div class="element-item is-first-child justify-content-center align-items-center"   data-is="element" data-id="606269" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-title text-align-inherit"><p>Propiarim</p></div></div></div><div class="element-item justify-content-center align-items-center"   data-is="element" data-id="786830" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p><span style="color: rgb(255, 255, 255);">Бесплатный пиар (</span><span style="color: #ffffff;">реклама</span><span style="color: rgb(255, 255, 255);">)</span></p></div></div></div><div class="element-item is-last-child justify-content-center align-items-center"   data-is="element" data-id="668210" data-e-id="button01" data-mod-id="single_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-disabled"><div class="buttons-holder single no-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--large weight--medium effect--zoom"
+        data-action="link"
+                    href="#b617970"                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Заказать рекламу</span></div></a></div></div></div></div></div></div></div></div></div></div></div></div> </div> </div><div class="b_block b_block b_665946" data-is="block" data-id="665946" data-b-id="GRID" data-mod-id="45"       data-components='[&quot;background&quot;]'> <div class="container-fluid" data-contrast="dark"> <div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><div class="container-wrapper indent"><div class="main-area"><div
+        class="layout-type-column container container-main lg-container"
+            ><div
+            class="flexbe-row-list gap-normal gap-am-normal"
+                    ><div class=" flexbe-row align-items-center justify-content-start" data-item-id="1"><div class="content-zone flexbe-column only-column first-column last-column fill-none radius-zero"
+    data-is="zone"
+    data-id="197862"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="column"
+    data-components="[]"
+            data-cols="24"
+            data-item-id="1"
+    ><div class="elements-list elements-list--vertical fill-none radius-zero px-0 py-0 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child is-last-child justify-content-start align-items-start"   data-is="element" data-id="261165" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-left"><p><br></p></div></div></div></div></div></div></div></div></div></div> </div> </div><div class="b_block b_block b_617970" data-is="block" data-id="617970" data-b-id="CARD" data-mod-id="1"      data-b-type='[&quot;has_title&quot;]' data-components='[&quot;cards&quot;,&quot;background&quot;]'> <div class="container-fluid" data-contrast="light"> <a class="_anchor" name="b617970"></a><div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><div class="container-wrapper indent"><div class="container container-title layout-type-title"><div class="content-zone fill-none"
+    data-is="zone"
+    data-id="153700"
+    data-e-id="zone_title"
+    data-mod-id="0"
+    data-zone-type="title"
+    data-components="[]"
+    ><div class="elements-list elements-list--vertical px-0 py-0 align-items-center justify-content-start text-center" data-direction="y"><div class="element-item is-first-child justify-content-center align-items-start"   data-is="element" data-id="239178" data-e-id="text01" data-mod-id="title_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-title text-align-inherit"><p>Заказать рекламу</p></div></div></div><div class="element-item is-last-child justify-content-center align-items-start"   data-is="element" data-id="378353" data-e-id="text01" data-mod-id="subtitle_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Здесь Вы сможете выбрать удобный для себя тариф</p></div></div></div></div></div></div><div
+        class="flexbe-cards-root normal-width from-edges slider-has-buttons slider-has-pagination container container-main lg-container"
+            ><div class="flexbe-cards-container layout-type-card" data-component="cards" data-mode="slider"><div class="flexbe-cards-wrapper overflow"><div class="flexbe-cards-slider gap-normal gap-am-normal"
+                        data-cards="3"
+                        data-cards-mobile="1"
+                        data-count="2"
+                        data-loop="1"
+                        data-autoplay=""
+                    ><div class="flexbe-cards cards-3 cards-am-1 align-items-stretch justify-content-center less-columns"><div class="content-zone flexbe-card fill-color radius-small"
+    data-is="zone"
+    data-id="556232"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="1"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-small px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start no-gutter"   data-is="element" data-id="725986" data-e-id="media01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;video&quot;,&quot;slider&quot;]'   ><div class="element-content"><a class="component-image loading"
+        data-component="image"
+                                                    data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.png"
+        data-img-id="16763234"
+        data-img-ext="png"
+        data-img-proportion="100"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="none"
+        ><div class="loading-img preview-average" style="background-color: #FEE194"></div><div class="real-img" data-img-layer="true" style="background-color: #FEE194"></div><img class="natural-img" alt=""></a></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="286112" data-e-id="text01" data-mod-id="subtitle_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-center"><p><span style="color: rgb(246, 185, 31);">VIP</span>piar</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="433688" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p><span style="color: rgb(125, 125, 125);">Реклама Вашего ресурса ВКонтакте, на одну неделю (7 дней).</span></p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="155406" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-center"><p>1₽</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="746444" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-left"><p><span style="color: rgb(246, 185, 31);"><span style="font-weight: 700;">VIP</span></span><span style="color: rgb(0, 0, 0);"><span style="font-weight: 700;">piar</span> - платная 7-и дневная реклама Ваших контентов (групп ВКонтакте, страниц ВКонтакте и т.д). Стоимость данного тарифа - составляет всего 1₽ (тестовая цена).</span></p><p><br></p><p><span style="color: #0044ff;"><a href="https://vk.com/@-191276136-kak-zakazat-vippiar-besplatnuu-reklamu" rel="noopener noreferrer" target="_blank">Как правильно заказать VIP-рекламу</a></span></p><p><span style="color: rgb(0, 68, 255);"><a href="https://vk.com/@-191276136-polzovatelskoe-soglashenie"></a></span></p></div></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="710786" data-e-id="button01" data-mod-id="desc_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-right"><div class="buttons-holder single with-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--zoom"
+        data-action="link"
+                    href="http://qiwi.com/n/PROPIARIM" target="_blank"                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Купить</span></div></a></div></div><div class="text-wrapper"><div class="element-text element-text--price text-style-content text-align-right"><p><span style="color: rgb(0, 68, 255);"><a href="https://vk.com/@-191276136-polzovatelskoe-soglashenie">Пользовательское соглашение</a>&nbsp;</span><span style="color: rgb(0, 0, 0);">(следует ознакомиться).</span></p></div></div></div></div></div></div></div><div class="content-zone flexbe-card fill-color radius-small"
+    data-is="zone"
+    data-id="693925"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="2"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-small px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start no-gutter"   data-is="element" data-id="675615" data-e-id="media01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;video&quot;,&quot;slider&quot;]'   ><div class="element-content"><a class="component-image loading"
+        data-component="image"
+                                                    data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.png"
+        data-img-id="16763401"
+        data-img-ext="png"
+        data-img-proportion="100"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="none"
+        ><div class="loading-img preview-average" style="background-color: #7DCE9A"></div><div class="real-img" data-img-layer="true" style="background-color: #7DCE9A"></div><img class="natural-img" alt=""></a></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="567461" data-e-id="text01" data-mod-id="subtitle_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-center"><p><span style="color: #38a817;">FREE</span>piar</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="163804" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p><span style="color: rgb(125, 125, 125);">Реклама Вашего ресурса ВКонтакте, на одни сутки (24 часа).</span></p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="639199" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-center"><p>Бесплатно</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="484280" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-left"><p><span style="color: rgb(56, 168, 23);"><span style="font-weight: 700;">FREE</span></span><span style="color: rgb(0, 0, 0);"><span style="font-weight: 700;">piar</span><span style="font-weight: 700;">&nbsp;</span>- однодневная (24 часа) реклама Ваших контентов (групп ВКонтакте, страниц ВКонтакте и т.д). Стоимость данного тарифа - БЕСПЛАТНО.</span></p><p><br></p><p><span style="color: rgb(0, 0, 0);">Как заказать FREE-рекламу - скоро.</span></p><p><span style="color: rgb(0, 68, 255);"><a href="https://vk.com/@-191276136-polzovatelskoe-soglashenie"></a></span></p></div></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="215236" data-e-id="button01" data-mod-id="desc_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-right"><div class="buttons-holder single with-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--zoom"
+        data-action="link"
+                    href="https://vk.com/im?media=&sel=-191276136" target="_blank"                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Заказать</span></div></a></div></div><div class="text-wrapper"><div class="element-text element-text--price text-style-content text-align-right"><p><span style="color: rgb(0, 68, 255);"><a href="https://vk.com/@-191276136-polzovatelskoe-soglashenie">Пользовательское соглашение</a>&nbsp;</span><span style="color: rgb(0, 0, 0);">(следует ознакомиться).</span></p></div></div></div></div></div></div></div></div><div class="swiper-mobile-helper"></div></div></div><div data-direction="prev"  class="slider-button slider-button--cards disabled size--medium style--filled shape--round color--contrast"><div class="slider-button-holder"><div class="slider-button-bg"></div><svg class="slider-button-icon" ><use xlink:href="/_s/images/v3/theme/4/res/slider.svg#btn-medium-1"></use></svg></div></div><div data-direction="next"  class="slider-button slider-button--cards disabled size--medium style--filled shape--round color--contrast"><div class="slider-button-holder"><div class="slider-button-bg"></div><svg class="slider-button-icon" ><use xlink:href="/_s/images/v3/theme/4/res/slider.svg#btn-medium-1"></use></svg></div></div></div><div class="slider-pagination  disabled slider-pagination--cards type--bullets color--contrast position--outside size--medium"
+            data-type="bullets"
+             data-bullets-visible="0"            ></div></div></div> </div> </div><div class="b_block b_block b_488278" data-is="block" data-id="488278" data-b-id="CARD" data-mod-id="1"      data-b-type='[&quot;has_title&quot;]' data-components='[&quot;cards&quot;,&quot;background&quot;]'> <div class="container-fluid" data-contrast="dark"> <a class="_anchor" name="b488278"></a><div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><div class="container-wrapper indent"><div class="container container-title layout-type-title"><div class="content-zone fill-none"
+    data-is="zone"
+    data-id="726925"
+    data-e-id="zone_title"
+    data-mod-id="0"
+    data-zone-type="title"
+    data-components="[]"
+    ><div class="elements-list elements-list--vertical px-0 py-0 align-items-center justify-content-start text-center" data-direction="y"><div class="element-item is-first-child justify-content-center align-items-start"   data-is="element" data-id="875765" data-e-id="text01" data-mod-id="title_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-title text-align-inherit"><p><span style="color: #f6b91f;">VIP</span>piar</p></div></div></div><div class="element-item is-last-child justify-content-center align-items-start"   data-is="element" data-id="458425" data-e-id="text01" data-mod-id="subtitle_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Платная реклама</p></div></div></div></div></div></div><div
+        class="flexbe-cards-root normal-width from-edges slider-has-buttons slider-has-pagination container container-main lg-container"
+            ><div class="flexbe-cards-container layout-type-card" data-component="cards" data-mode="slider"><div class="flexbe-cards-wrapper overflow"><div class="flexbe-cards-slider gap-normal gap-am-normal"
+                        data-cards="3"
+                        data-cards-mobile="1"
+                        data-count="4"
+                        data-loop="1"
+                        data-autoplay=""
+                    ><div class="flexbe-cards cards-3 cards-am-1 align-items-stretch justify-content-start "><div class="content-zone flexbe-card fill-color radius-zero"
+    data-is="zone"
+    data-id="831190"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="1"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-zero px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start no-gutter"   data-is="element" data-id="917904" data-e-id="media01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;video&quot;,&quot;slider&quot;]'   ><div class="element-content"><a class="component-image loading"
+        data-component="image"
+                                    href="https://vk.com/bez_pyati_dva"  target="_blank"                                        data-effect="zoom"
+                        data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.jpg"
+        data-img-id="16733579"
+        data-img-ext="jpg"
+        data-img-proportion="55"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="link"
+        ><div class="loading-img preview-average" style="background-color: #567F82"></div><div class="real-img" data-img-layer="true" style="background-color: #567F82"></div><img class="natural-img" alt=""></a></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="575782" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Страница ВКонтакте</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="904399" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p>Страница пользователя ВКонтакте - "Владислав Богачев".</p></div></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="462728" data-e-id="button01" data-mod-id="desc_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-right"><div class="buttons-holder single with-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--zoom"
+        data-action="link"
+                    href="https://vk.com/bez_pyati_dva" target="_blank"                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Перейти</span></div></a></div></div><div class="text-wrapper"><div class="element-text element-text--price text-style-content text-align-right"><p>Осталось: 5 дней</p></div></div></div></div></div></div></div><div class="content-zone flexbe-card fill-color radius-zero"
+    data-is="zone"
+    data-id="174017"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="2"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-zero px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start no-gutter"   data-is="element" data-id="939841" data-e-id="media01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;video&quot;,&quot;slider&quot;]'   ><div class="element-content"><a class="component-image loading"
+        data-component="image"
+                                    href="https://vk.com/public191276136"  target="_blank"                                        data-effect="zoom"
+                        data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.png"
+        data-img-id="16724131"
+        data-img-ext="png"
+        data-img-proportion="100"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="link"
+        ><div class="loading-img preview-average" style="background-color: #BA75DB"></div><div class="real-img" data-img-layer="true" style="background-color: #BA75DB"></div><img class="natural-img" alt=""></a></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="794549" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Группа ВКонтакте</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="223059" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p>Группа  сервиса ВКонтакте "Propiarim - бесплатный пиар".</p></div></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="741554" data-e-id="button01" data-mod-id="desc_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-right"><div class="buttons-holder single with-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--zoom"
+        data-action="link"
+                    href="https://vk.com/public191276136" target="_blank"                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Перейти</span></div></a></div></div><div class="text-wrapper"><div class="element-text element-text--price text-style-content text-align-right"><p>Осталось: 5 дней</p></div></div></div></div></div></div></div><div class="content-zone flexbe-card fill-color radius-zero"
+    data-is="zone"
+    data-id="623254"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="3"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-zero px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start no-gutter"   data-is="element" data-id="212481" data-e-id="media01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;video&quot;,&quot;slider&quot;]'   ><div class="element-content"><a class="component-image loading"
+        data-component="image"
+                                    href="https://vk.com/id549913841"  target="_blank"                                        data-effect="zoom"
+                        data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.jpg"
+        data-img-id="16733501"
+        data-img-ext="jpg"
+        data-img-proportion="57"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="link"
+        ><div class="loading-img preview-average" style="background-color: #6EC3F1"></div><div class="real-img" data-img-layer="true" style="background-color: #6EC3F1"></div><img class="natural-img" alt=""></a></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="402769" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Страница ВКонтакте</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="612397" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p>Страница пользователя ВКонтакте -"Ваня Жариков".</p></div></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="990518" data-e-id="button01" data-mod-id="desc_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-right"><div class="buttons-holder single with-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--zoom"
+        data-action="link"
+                    href="https://vk.com/id549913841" target="_blank"                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Перейти</span></div></a></div></div><div class="text-wrapper"><div class="element-text element-text--price text-style-content text-align-right"><p>Осталось: 4 дня</p></div></div></div></div></div></div></div><div class="content-zone flexbe-card fill-color radius-zero"
+    data-is="zone"
+    data-id="781709"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="4"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-zero px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start no-gutter"   data-is="element" data-id="255136" data-e-id="media01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;video&quot;,&quot;slider&quot;]'   ><div class="element-content"><a class="component-image loading"
+        data-component="image"
+                                    href="/img/16763234_1920.png"
+                target="_blank"
+                data-lg="true"
+                                                        data-effect="zoom"
+                        data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.png"
+        data-img-id="16763234"
+        data-img-ext="png"
+        data-img-proportion="100"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="popup"
+        ><div class="loading-img preview-average" style="background-color: #FEE194"></div><div class="real-img" data-img-layer="true" style="background-color: #FEE194"></div><img class="natural-img" alt=""></a></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="811363" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Заказать <span style="color: #f6b91f;">VIP</span>piar</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="111076" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p><span style="color: rgb(246, 185, 31);"><span style="font-weight: 700;">VIP</span></span><span style="color: rgb(0, 0, 0);"><span style="font-weight: 700;">piar</span> - платная 7-ми дневная реклама Ваших контентов (групп ВКонтакте, страниц ВКонтакте и т.д). Стоимость данного тарифа, составляет всего 1₽ (тестовая цена).</span></p></div></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="588503" data-e-id="button01" data-mod-id="desc_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-right"><div class="buttons-holder single with-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--zoom"
+        data-action="link"
+                    href="#b617970"                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Купить</span></div></a></div></div><div class="text-wrapper"><div class="element-text element-text--price text-style-content text-align-right"><p>Стоимость: 1₽</p></div></div></div></div></div></div></div></div><div class="swiper-mobile-helper"></div></div></div><div data-direction="prev"  class="slider-button slider-button--cards disabled size--medium style--filled shape--round color--contrast"><div class="slider-button-holder"><div class="slider-button-bg"></div><svg class="slider-button-icon" ><use xlink:href="/_s/images/v3/theme/4/res/slider.svg#btn-medium-1"></use></svg></div></div><div data-direction="next"  class="slider-button slider-button--cards disabled size--medium style--filled shape--round color--contrast"><div class="slider-button-holder"><div class="slider-button-bg"></div><svg class="slider-button-icon" ><use xlink:href="/_s/images/v3/theme/4/res/slider.svg#btn-medium-1"></use></svg></div></div></div><div class="slider-pagination  disabled slider-pagination--cards type--bullets color--contrast position--outside size--medium"
+            data-type="bullets"
+             data-bullets-visible="0"            ></div></div></div> </div> </div><div class="b_block b_block b_764853" data-is="block" data-id="764853" data-b-id="CARD" data-mod-id="1"      data-b-type='[&quot;has_title&quot;]' data-components='[&quot;cards&quot;,&quot;background&quot;]'> <div class="container-fluid" data-contrast="dark"> <a class="_anchor" name="b764853"></a><div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><div class="container-wrapper indent"><div class="container container-title layout-type-title"><div class="content-zone fill-none"
+    data-is="zone"
+    data-id="412027"
+    data-e-id="zone_title"
+    data-mod-id="0"
+    data-zone-type="title"
+    data-components="[]"
+    ><div class="elements-list elements-list--vertical px-0 py-0 align-items-center justify-content-start text-center" data-direction="y"><div class="element-item is-first-child justify-content-center align-items-start"   data-is="element" data-id="565482" data-e-id="text01" data-mod-id="title_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-title text-align-inherit"><p><span style="color: rgb(56, 168, 23);">FREE</span>piar</p></div></div></div><div class="element-item is-last-child justify-content-center align-items-start"   data-is="element" data-id="627890" data-e-id="text01" data-mod-id="subtitle_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Бесплатная реклама</p></div></div></div></div></div></div><div
+        class="flexbe-cards-root normal-width from-edges slider-has-buttons slider-has-pagination container container-main lg-container"
+            ><div class="flexbe-cards-container layout-type-card" data-component="cards" data-mode="slider"><div class="flexbe-cards-wrapper overflow"><div class="flexbe-cards-slider gap-normal gap-am-normal"
+                        data-cards="3"
+                        data-cards-mobile="1"
+                        data-count="2"
+                        data-loop="1"
+                        data-autoplay=""
+                    ><div class="flexbe-cards cards-3 cards-am-1 align-items-stretch justify-content-center less-columns"><div class="content-zone flexbe-card fill-color radius-zero"
+    data-is="zone"
+    data-id="139681"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="1"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-zero px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start no-gutter"   data-is="element" data-id="450513" data-e-id="media01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;video&quot;,&quot;slider&quot;]'   ><div class="element-content"><a class="component-image loading"
+        data-component="image"
+                                    href="https://vk.com/id579398737"  target="_blank"                                        data-effect="zoom"
+                        data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.png"
+        data-img-id="6235244"
+        data-img-ext="png"
+        data-img-proportion="100"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="link"
+        ><div class="loading-img preview-average" style="background-color: #C4CCF5"></div><div class="real-img" data-img-layer="true" style="background-color: #C4CCF5"></div><img class="natural-img" alt=""></a></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="898314" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Страница ВКонтакте</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="294092" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p>Страница пользователя ВКонтакте - "Владислав Богачев".</p><br></div></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="370765" data-e-id="button01" data-mod-id="desc_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-right"><div class="buttons-holder single with-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--zoom"
+        data-action="link"
+                    href="https://vk.com/id579398737" target="_blank"                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Перейти</span></div></a></div></div><div class="text-wrapper"><div class="element-text element-text--price text-style-content text-align-right"><p>Осталось: 1 день</p></div></div></div></div></div></div></div><div class="content-zone flexbe-card fill-color radius-zero"
+    data-is="zone"
+    data-id="542244"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="2"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-zero px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start no-gutter"   data-is="element" data-id="945086" data-e-id="media01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;video&quot;,&quot;slider&quot;]'   ><div class="element-content"><a class="component-image loading"
+        data-component="image"
+                                    href="/img/16763401_1920.png"
+                target="_blank"
+                data-lg="true"
+                                                        data-effect="zoom"
+                        data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.png"
+        data-img-id="16763401"
+        data-img-ext="png"
+        data-img-proportion="100"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="popup"
+        ><div class="loading-img preview-average" style="background-color: #7DCE9A"></div><div class="real-img" data-img-layer="true" style="background-color: #7DCE9A"></div><img class="natural-img" alt=""></a></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="884553" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Заказать<span style="color: #38a817;">&nbsp;FREE</span>piar</p></div></div></div><div class="element-item justify-content-start align-items-start"   data-is="element" data-id="813095" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p><span style="color: rgb(56, 168, 23);"><span style="font-weight: 700;">FREE</span></span><span style="color: rgb(0, 0, 0);"><span style="font-weight: 700;">piar&nbsp;</span>- однодневная (24-х часовая) реклама Ваших контентов (групп ВКонтакте, страниц ВКонтакте и т.д). Стоимость данного тарифа - БЕСПЛАТНО.</span></p></div></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="183839" data-e-id="button01" data-mod-id="desc_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-right"><div class="buttons-holder single with-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--zoom"
+        data-action="link"
+                    href="#b617970"                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Заказать</span></div></a></div></div><div class="text-wrapper"><div class="element-text element-text--price text-style-content text-align-right"><p>Стоимость: Бесплатно</p></div></div></div></div></div></div></div></div><div class="swiper-mobile-helper"></div></div></div><div data-direction="prev"  class="slider-button slider-button--cards disabled size--medium style--filled shape--round color--contrast"><div class="slider-button-holder"><div class="slider-button-bg"></div><svg class="slider-button-icon" ><use xlink:href="/_s/images/v3/theme/4/res/slider.svg#btn-medium-1"></use></svg></div></div><div data-direction="next"  class="slider-button slider-button--cards disabled size--medium style--filled shape--round color--contrast"><div class="slider-button-holder"><div class="slider-button-bg"></div><svg class="slider-button-icon" ><use xlink:href="/_s/images/v3/theme/4/res/slider.svg#btn-medium-1"></use></svg></div></div></div><div class="slider-pagination  disabled slider-pagination--cards type--bullets color--contrast position--outside size--medium"
+            data-type="bullets"
+             data-bullets-visible="0"            ></div></div></div> </div> </div><div class="b_block b_block b_676679" data-is="block" data-id="676679" data-b-id="GRID" data-mod-id="47"      data-b-type='[&quot;has_title&quot;]' data-components='[&quot;background&quot;]'> <div class="container-fluid" data-contrast="light"> <a class="_anchor" name="contacts"></a><div class="component-bg bg-video "
+        data-type="video"
+        data-parallax="false"
+         data-video="[]"        data-component="background"><div class="image-holder"><div class="image"></div></div><div class="overlay " data-opacity="0.9"></div></div><div class="container-wrapper indent"><div class="main-area"><div class="container container-title layout-type-title"><div class="content-zone fill-none"
+    data-is="zone"
+    data-id="442870"
+    data-e-id="zone_title"
+    data-mod-id="ru"
+    data-zone-type="title"
+    data-components="[]"
+    ><div class="elements-list elements-list--vertical px-0 py-0 align-items-center justify-content-start text-center" data-direction="y"><div class="element-item is-first-child justify-content-center align-items-start"   data-is="element" data-id="921376" data-e-id="text01" data-mod-id="title_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-title text-align-inherit"><p>Как заказать рекламу</p></div></div></div><div class="element-item is-last-child justify-content-center align-items-start"   data-is="element" data-id="945367" data-e-id="text01" data-mod-id="subtitle_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>В этом видеоролике Вы узнаете, как заказать VIPpiar и FREEpiar</p></div></div></div></div></div></div><div
+        class="layout-type-column container container-main lg-container"
+            ><div
+            class="flexbe-row-list gap-normal gap-am-normal"
+                    ><div class=" flexbe-row align-items-stretch justify-content-start" data-item-id="1"><div class="content-zone flexbe-column only-column first-column last-column fill-none radius-zero"
+    data-is="zone"
+    data-id="586191"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="column"
+    data-components="[]"
+            data-cols="24"
+            data-item-id="1"
+    ><div class="elements-list elements-list--vertical fill-none radius-zero px-0 py-0 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child is-last-child justify-content-start align-items-start"   data-is="element" data-id="808606" data-e-id="text01" data-mod-id="title_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-title text-align-center"><p><span style="color: rgb(128, 128, 128);">Скоро появится</span></p></div></div></div></div></div></div></div></div></div></div> </div> </div><div class="b_block b_block b_715120" data-is="block" data-id="715120" data-b-id="GRID" data-mod-id="38"       data-components='[&quot;background&quot;]'> <div class="container-fluid" data-contrast="light"> <div class="component-bg bg-image loading "
+        data-type="image"
+        data-parallax="0"
+                data-component="background"><div class="image-holder"><div class="image" style="background-color: #B465F1;"><div class="loader-image average" data-src="/img/16733317_1920.jpg" style="background-color: #B465F1;"></div></div></div><div class="overlay " data-opacity="0.5"></div></div><div class="container-wrapper indent"><div class="main-area"><div
+        class="layout-type-column container container-main lg-container"
+            ><div
+            class="flexbe-row-list gap-normal gap-am-normal"
+                    ><div class=" flexbe-row align-items-center justify-content-start" data-item-id="1"><div class="content-zone flexbe-column first-column fill-none radius-zero"
+    data-is="zone"
+    data-id="585272"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="column"
+    data-components="[]"
+            data-cols="12"
+            data-item-id="1"
+    ><div class="elements-list elements-list--vertical fill-none radius-zero px-0 py-0 align-items-center justify-content-center text-center" data-direction="y"><div class="element-item is-first-child is-last-child justify-content-center align-items-center"   data-is="element" data-id="711086" data-e-id="text01" data-mod-id="title_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-title text-align-inherit"><p>Скоро тут что-то будет ;)</p></div></div></div></div></div><div class="content-zone flexbe-column last-column fill-none radius-zero"
+    data-is="zone"
+    data-id="577089"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="column"
+    data-components="[]"
+            data-cols="12"
+            data-item-id="2"
+    ><div class="elements-list elements-list--vertical fill-none radius-zero px-0 py-0 align-items-center justify-content-center text-center" data-direction="y"><div class="element-item is-first-child is-last-child justify-content-center align-items-center"   data-is="element" data-id="993984" data-e-id="timer01" data-mod-id="0"  data-components='[&quot;timer&quot;]'   ><div class="element-content"><div class="component-timer" data-component="timer"><div class="wrap timer text-style-note" data-time="{&quot;type&quot;:&quot;date&quot;,&quot;d&quot;:16,&quot;my&quot;:&quot;2/2020&quot;,&quot;dw&quot;:3,&quot;h&quot;:0,&quot;m&quot;:0,&quot;on_expired&quot;:&quot;block&quot;,&quot;y&quot;:2020,&quot;month&quot;:2}"><div class="number d"><div class="title"><i data-value="0"></i><i data-value="0"></i><i data-value="0">0</i></div><span data-lang="timer.dd"></span></div><div class="colon first-colon">:</div><div class="number h"><div class="title"><i data-value="0">0</i><i data-value="0">0</i></div><span data-lang="timer.hh"></span></div><div class="colon">:</div><div class="number m"><div class="title"><i data-value="0">0</i><i data-value="0">0</i></div><span data-lang="timer.mm"></span></div><div class="colon last-colon">:</div><div class="number s"><div class="title"><i data-value="0">0</i><i data-value="0">0</i></div><span data-lang="timer.ss"></span></div></div></div></div></div></div></div></div></div></div></div></div> </div> </div><div class="b_block b_block b_375187" data-is="block" data-id="375187" data-b-id="CARD" data-mod-id="10"      data-b-type='[&quot;has_title&quot;]' data-components='[&quot;cards&quot;,&quot;background&quot;]'> <div class="container-fluid" data-contrast="dark"> <a class="_anchor" name="opinions"></a><div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><div class="container-wrapper indent"><div class="container container-title layout-type-title"><div class="content-zone fill-none"
+    data-is="zone"
+    data-id="180871"
+    data-e-id="zone_title"
+    data-mod-id="0"
+    data-zone-type="title"
+    data-components="[]"
+    ><div class="elements-list elements-list--vertical px-0 py-0 align-items-center justify-content-start text-center" data-direction="y"><div class="element-item is-first-child is-last-child justify-content-center align-items-start"   data-is="element" data-id="349158" data-e-id="text01" data-mod-id="title_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-title text-align-center"><p>Новости сервиса</p></div></div></div></div></div></div><div
+        class="flexbe-cards-root normal-width from-edges   container container-main lg-container"
+            ><div class="flexbe-cards cards-2 cards-am-1 align-items-stretch justify-content-start  layout-type-card gap-normal gap-am-normal"><div class="content-zone flexbe-card fill-color radius-small"
+    data-is="zone"
+    data-id="101104"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="1"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-small px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start"   data-is="element" data-id="758853" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><h1 class="element-text text-style-content text-align-inherit"><p><span style="font-weight: 700;">Тест</span></p><p><br></p><p>(ТЕСТ) Добавили некоторые правки в сервис.</p></h1></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="455014" data-e-id="avatar01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;icon&quot;]'   ><div class="element-content"><div class="element-container"><div class="element-img size--small"><a class="component-image round"
+        data-component="image"
+                                                        data-img-loaded="1"
+                data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.png"
+        data-img-id="16733363"
+        data-img-ext="png"
+        data-img-proportion="100"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="none"
+        ><div class="real-img" data-img-layer="true" style="background-image: url(/img/16733363_200.png); background-position: 50% 50%"></div><img class="natural-img" alt="" src="/img/16733363_200.png"></a></div><div class="element-text--block"><div class="element-text--title text-style-content text-align-inherit"><p>Администрация</p></div><div class="element-text--subtitle text-style-content text-align-inherit"><p>28.01.2020 в 19:36</p></div></div></div></div></div></div></div><div class="content-zone flexbe-card fill-color radius-zero"
+    data-is="zone"
+    data-id="791303"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="card"
+    data-components="[]"
+            data-item-id="2"
+            data-contrast="light"
+    ><div class="elements-list elements-list--vertical fill-color radius-zero px-30 py-30 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child justify-content-start align-items-start"   data-is="element" data-id="521146" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><h1 class="element-text text-style-content text-align-inherit"><p><span style="font-weight: 700;">Новый тариф рекламы</span></p><p><br></p><p>В ближайшем будущем мы планируем добавить новый тариф рекламы - на целый месяц, который нельзя будет купить за деньги, а только выиграть в наших акциях).</p></h1></div></div><div class="element-item is-last-child justify-content-start align-items-start fill-space"   data-is="element" data-id="295719" data-e-id="avatar01" data-mod-id="0"  data-components='[&quot;image&quot;,&quot;icon&quot;]'   ><div class="element-content"><div class="element-container"><div class="element-img size--small"><a class="component-image round"
+        data-component="image"
+                                                        data-img-loaded="1"
+                data-img-scale="cover"
+        data-img-type="background"
+        data-img-name="image.png"
+        data-img-id="16733363"
+        data-img-ext="png"
+        data-img-proportion="100"
+        data-img-x="50%"
+        data-img-y="50%"
+        data-action="none"
+        ><div class="real-img" data-img-layer="true" style="background-image: url(/img/16733363_200.png); background-position: 50% 50%"></div><img class="natural-img" alt="" src="/img/16733363_200.png"></a></div><div class="element-text--block"><div class="element-text--title text-style-content text-align-inherit"><p>Администрация</p></div><div class="element-text--subtitle text-style-content text-align-inherit"><p><span style="color: rgb(150, 150, 153);">26.01.2020 в 10:31</span></p></div></div></div></div></div></div></div></div></div></div> </div> </div><div class="b_block b_block b_420800" data-is="block" data-id="420800" data-b-id="FOOTER"       data-b-type='[&quot;footer&quot;]' data-components='[&quot;background&quot;]'> <div class="container-fluid" data-contrast="light"> <div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><div class="container-wrapper indent"><div
+        class="layout-type-column container"
+            ><div
+            class="flexbe-row-list gap-normal gap-am-normal"
+                    ><div class=" flexbe-row align-items-stretch justify-content-start" data-item-id="1"><div class="content-zone flexbe-column first-column fill-none radius-zero"
+    data-is="zone"
+    data-id="662441"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="footer"
+    data-components="[]"
+            data-cols="8"
+            data-item-id="1"
+    ><div class="elements-list elements-list--vertical fill-none radius-zero px-0 py-0 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child is-last-child justify-content-start align-items-start"   data-is="element" data-id="709675" data-e-id="logo01" data-mod-id="0"  data-components='[&quot;logo&quot;]'   ><div class="element-content"><div class="component-logo" data-component="logo" style="font-size: 53px"><div class="component-logo-img"
+                            style="background-image: url('/img/16723976_318.png'); padding-bottom: 100%"
+            ><a href="https://vk.com/public191276136" target="_blank"></a></div></div></div></div></div></div><div class="content-zone flexbe-column fill-none radius-zero"
+    data-is="zone"
+    data-id="661904"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="footer"
+    data-components="[]"
+            data-cols="8"
+            data-item-id="2"
+    ><div class="elements-list elements-list--vertical fill-none radius-zero px-0 py-0 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child is-last-child justify-content-start align-items-start"   data-is="element" data-id="349305" data-e-id="menu01" data-mod-id="column_ru"  data-components='[&quot;menu&quot;]'   ><div class="element-content"><nav class="component-menu text-style-menu overflow weight--normal size--medium style--progress" data-type="click" data-show_more="true" data-direction="column" data-component="menu"><ul class="component-menu-list wrap-list"><li class="menu-item root-item "><a class="menu-item-text" href="#b617970" ><span>Заказать рекламу</span></a></li><li class="menu-item root-item "><a class="menu-item-text" href="#b488278" ><span>VIPpiar (посмотреть рекламу)</span></a></li><li class="menu-item root-item "><a class="menu-item-text" href="#b764853" ><span>FREEpiar (посмотреть рекламу)</span></a></li><li class="menu-item root-item "><a class="menu-item-text" href="#contacts" ><span>Как заказать рекламу (видеоурок)</span></a></li><li class="menu-item root-item "><a class="menu-item-text" href="#opinions" ><span>Новости сервиса</span></a></li><li class="menu-item root-item "><a class="menu-item-text" href="https://vk.com/@-191276136-polzovatelskoe-soglashenie" target="_blank"><span>Пользовательское соглашение</span></a></li></ul></nav></div></div></div></div><div class="content-zone flexbe-column last-column fill-none radius-zero"
+    data-is="zone"
+    data-id="941970"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="footer"
+    data-components="[]"
+            data-cols="8"
+            data-item-id="3"
+    ><div class="elements-list elements-list--vertical fill-none radius-zero px-10 py-10 align-items-start justify-content-start text-left" data-direction="y"><div class="element-item is-first-child is-last-child justify-content-start align-items-start"   data-is="element" data-id="501823" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p><span style="color: #808080;">Версия 0.1 (beta)</span></p></div></div></div></div></div></div></div></div></div> </div> </div></div>
+                <div class="modal-list"><div class="m_modal m_quiz823" data-is="modal" data-id="quiz823" data-m-id="QUIZ" data-mod-id="3"   data-m-type='[&quot;quiz&quot;]' data-components='[&quot;background&quot;,&quot;quiz&quot;]'> <div class="modal-data" data-contrast="light"> <div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><a class="close close-times"></a><div class="scroller"><div class="modal-content container"><div class="component-quiz style-transparent justify--center align--stretch"
+        data-style="transparent"
+        data-active-step="11a43ce0"
+        data-active-index="0"
+        data-total-steps="13"
+        data-component="quiz"
+    ><div class="quiz-progress"
+        data-quiz-part="progress"
+        data-text-style="percent"
+        data-progress-style="bar"
+        data-current="0"
+        data-total="13"
+    ><div class="quiz-progress-inner"><div class="progress-loader-bar"><div class="progress-loader-bg"></div><div class="current"
+                                                    data-unit="percent"
+                            data-steps="13"
+                                                style="width: 0%"
+                    ><div class="progress-runner" data-value="0%"></div></div></div></div></div><form
+            class="quiz-steps"
+            action="/mod/lead/send/"
+            method="post"
+            enctype="multipart/form-data"
+            novalidate
+            data-autonext="0"
+        ><div class="form-info" style="display: none"><input type="hidden" name="results" data-value="[{&quot;id&quot;:&quot;default&quot;,&quot;name&quot;:&quot;Quiz&quot;,&quot;action&quot;:{&quot;name&quot;:&quot;modal&quot;,&quot;modal_id&quot;:&quot;done62573&quot;,&quot;action_redirect&quot;:&quot;&quot;,&quot;pay&quot;:{&quot;price&quot;:&quot;&quot;}},&quot;goals&quot;:{&quot;goal&quot;:&quot;&quot;,&quot;goal_html&quot;:&quot;&quot;},&quot;conditions&quot;:{&quot;list&quot;:[],&quot;union&quot;:&quot;and&quot;}}]"><!-- Prevent implicit submission of the form --><button type="submit" aria-hidden="true" disabled></button></div><div class="form-fields-advanced"></div><div class="steps-wrapper"><div
+            class="step active"
+            data-id="11a43ce0"
+            data-index="0"
+            data-real-index="0"
+                                    data-type="root"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="1"
+        ><div class="step-title text-style-title font-size-h3">
+                Ваша цель
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="123553"
+                        data-type="image"
+                        data-is-required="1"
+                                            ><div class="form-field-image-group scrollable" data-divisible="4" data-position="quad"><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[123553]"
+                    value="Стройность"
+                                        data-id="b51b41c5"
+                    data-goto="b495964e"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15081746_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Стройность</span></div></div><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[123553]"
+                    value="Мышечная масса"
+                                        data-id="d5b68c30"
+                    data-goto="6aadbb9d"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15076670_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Мышечная масса</span></div></div><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[123553]"
+                    value="Растяжка"
+                                        data-id="da9e611d"
+                    data-goto="b495964e"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15081621_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Растяжка</span></div></div><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[123553]"
+                    value="Здоровая осанка"
+                                        data-id="97af13a0"
+                    data-goto="162e77a3"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15076703_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Здоровая осанка</span></div></div></div><div class="form-field-hidden"><input type="hidden" name="type[123553]" value="image"><input type="hidden" name="vars[123553]" value="Цель"></div></div></div></div><div
+            class="step"
+            data-id="b495964e"
+            data-index="1"
+            data-real-index="1"
+                                    data-type="nested"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="2"
+        ><div class="step-title text-style-title font-size-h3">
+                Выберите тренера
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="7e85e5a3"
+                        data-type="image"
+                        data-is-required="1"
+                                            ><div class="form-field-image-group scrollable" data-divisible="3" data-position="quad"><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[7e85e5a3]"
+                    value="Ирина"
+                                        data-id="9773f736"
+                    data-goto="next"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15080224_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Ирина</span></div></div><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[7e85e5a3]"
+                    value="Мария"
+                                        data-id="a77deec4"
+                    data-goto="next"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15081703_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Мария</span></div></div><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[7e85e5a3]"
+                    value="Пётр"
+                                        data-id="3d4b074d"
+                    data-goto="next"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15080228_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Пётр</span></div></div></div><div class="form-field-hidden"><input type="hidden" name="type[7e85e5a3]" value="image"><input type="hidden" name="vars[7e85e5a3]" value="Фитнес тренер"></div></div></div></div><div
+            class="step"
+            data-id="6aadbb9d"
+            data-index="2"
+            data-real-index="2"
+                                    data-type="nested"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="3"
+        ><div class="step-title text-style-title font-size-h3">
+                Выберите тренера
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="ed6efead"
+                        data-type="image"
+                        data-is-required="1"
+                                            ><div class="form-field-image-group scrollable" data-divisible="3" data-position="quad"><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[ed6efead]"
+                    value="Максим"
+                                        data-id="3b377c25"
+                    data-goto="next"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15066291_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Максим</span></div></div><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[ed6efead]"
+                    value="Александр"
+                                        data-id="6d315eff"
+                    data-goto="next"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15077030_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Александр</span></div></div><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[ed6efead]"
+                    value="Алина"
+                                        data-id="65b929bb"
+                    data-goto="next"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15076797_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Алина</span></div></div></div><div class="form-field-hidden"><input type="hidden" name="type[ed6efead]" value="image"><input type="hidden" name="vars[ed6efead]" value="Тренер-тяжелоатлет"></div></div></div></div><div
+            class="step"
+            data-id="162e77a3"
+            data-index="3"
+            data-real-index="3"
+                                    data-type="nested"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="4"
+        ><div class="step-title text-style-title font-size-h3">
+                Выберите тренера
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="6fe024c2"
+                        data-type="image"
+                        data-is-required="1"
+                                            ><div class="form-field-image-group scrollable" data-divisible="4" data-position="quad"><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[6fe024c2]"
+                    value="Екатерина"
+                                        data-id="b738ea9e"
+                    data-goto="next"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15080274_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Екатерина</span></div></div><div class="variant-item form-field-image-item"><input
+                    type="radio"
+                    class="form-field-image"
+                    name="form[6fe024c2]"
+                    value="Дмитрий"
+                                        data-id="20adc981"
+                    data-goto="next"
+                /><div class="form-field-image-content"><div class="form-field-image-wrap orient-vertical"><div class="form-field-image-img" style="background-image: url('/img/15080348_600.jpg')"></div><span class="form-field-image-check"><svg class="form-field-image-check-icon" viewBox="0 0 50 50"><g fill="none" fill-rule="evenodd"><circle id="bg" fill="" cx="25" cy="25" r="25"/><path id="arrow" fill="#000" d="M1.4 6.46154L0 7.90507L6 14L18 1.44354L16.6 0L6 11.1461L1.4 6.46154Z" transform="translate(16 18)"/></g></svg></span></div><span class="form-field-image-text">Дмитрий</span></div></div></div><div class="form-field-hidden"><input type="hidden" name="type[6fe024c2]" value="image"><input type="hidden" name="vars[6fe024c2]" value="Тренер оздоровительной гимнастики "></div></div></div></div><div
+            class="step"
+            data-id="bc9b4c6d"
+            data-index="4"
+            data-real-index="4"
+                                    data-type="root"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="5"
+        ><div class="step-title text-style-title font-size-h3">
+                Ваш уровень подготовки
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="ab436991"
+                        data-type="radio"
+                        data-is-required="0"
+                                            ><div class="form-field-radio"><div class="form-field-radio-list"><label class="variant-item form-field-radio-item"><input
+                        type="radio"
+                        class="form-field-radio--input"
+                        name="form[ab436991]"
+                        value="Начинающий "
+                         checked="checked"                        data-id="37e944e0"
+                        data-goto="next"
+                    /><span class="form-field-radio--check"></span><span class="form-field-radio--text">Начинающий </span></label><label class="variant-item form-field-radio-item"><input
+                        type="radio"
+                        class="form-field-radio--input"
+                        name="form[ab436991]"
+                        value="Средний"
+                                                data-id="ecfad27d"
+                        data-goto="next"
+                    /><span class="form-field-radio--check"></span><span class="form-field-radio--text">Средний</span></label><label class="variant-item form-field-radio-item"><input
+                        type="radio"
+                        class="form-field-radio--input"
+                        name="form[ab436991]"
+                        value="Профи"
+                                                data-id="31190638"
+                        data-goto="next"
+                    /><span class="form-field-radio--check"></span><span class="form-field-radio--text">Профи</span></label></div></div><div class="form-field-hidden"><input type="hidden" name="type[ab436991]" value="radio"><input type="hidden" name="vars[ab436991]" value="Уровень подготовки"></div></div></div></div><div
+            class="step"
+            data-id="448e7337"
+            data-index="5"
+            data-real-index="5"
+                                    data-type="root"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="6"
+        ><div class="step-title text-style-title font-size-h3">
+                Укажите ваш:
+            </div><div class="quiz-fields" data-count="3"><div class="field"
+                        data-field-id="bd282084"
+                        data-type="text"
+                        data-is-required="false"
+                                            ><div class="form-field-text"><input
+            type="text"
+            class="form-field-text--input"
+            name="form[bd282084]"
+            autocomplete="off"
+            data-check="text"
+                                    required
+        /><hr class="border"><label class="form-field-title">Рост</label><div class="error"></div></div><div class="form-field-hidden"><input type="hidden" name="type[bd282084]" value="text"><input type="hidden" name="vars[bd282084]" value="Рост"></div></div><div class="field"
+                        data-field-id="d9cec4f8"
+                        data-type="text"
+                        data-is-required="0"
+                                            ><div class="form-field-text"><input
+            type="text"
+            class="form-field-text--input"
+            name="form[d9cec4f8]"
+            autocomplete="off"
+            data-check="text"
+                                    required
+        /><hr class="border"><label class="form-field-title">Вес</label><div class="error"></div></div><div class="form-field-hidden"><input type="hidden" name="type[d9cec4f8]" value="text"><input type="hidden" name="vars[d9cec4f8]" value="Вес"></div></div><div class="field"
+                        data-field-id="2685ecdc"
+                        data-type="text"
+                        data-is-required="0"
+                                            ><div class="form-field-text"><input
+            type="text"
+            class="form-field-text--input"
+            name="form[2685ecdc]"
+            autocomplete="off"
+            data-check="text"
+                                    required
+        /><hr class="border"><label class="form-field-title">Возраст</label><div class="error"></div></div><div class="form-field-hidden"><input type="hidden" name="type[2685ecdc]" value="text"><input type="hidden" name="vars[2685ecdc]" value="Возраст"></div></div></div></div><div
+            class="step"
+            data-id="8b6fea40"
+            data-index="6"
+            data-real-index="6"
+                                    data-type="root"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="7"
+        ><div class="step-title text-style-title font-size-h3">
+                Страдаете ли вы хроническими заболеваниями
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="b21cd077"
+                        data-type="radio"
+                        data-is-required="0"
+                                            ><div class="form-field-radio"><div class="form-field-radio-list"><label class="variant-item form-field-radio-item"><input
+                        type="radio"
+                        class="form-field-radio--input"
+                        name="form[b21cd077]"
+                        value="Да"
+                                                data-id="598891c9"
+                        data-goto="c57c4022"
+                    /><span class="form-field-radio--check"></span><span class="form-field-radio--text">Да</span></label><label class="variant-item form-field-radio-item"><input
+                        type="radio"
+                        class="form-field-radio--input"
+                        name="form[b21cd077]"
+                        value="Нет"
+                         checked="checked"                        data-id="e133b960"
+                        data-goto="next"
+                    /><span class="form-field-radio--check"></span><span class="form-field-radio--text">Нет</span></label></div></div><div class="form-field-hidden"><input type="hidden" name="type[b21cd077]" value="radio"><input type="hidden" name="vars[b21cd077]" value="Противопоказания"></div></div></div></div><div
+            class="step"
+            data-id="c57c4022"
+            data-index="7"
+            data-real-index="7"
+                                    data-type="nested"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="8"
+        ><div class="step-title text-style-title font-size-h3">
+                Уточните, какими хроническими заболеваниями вы страдаете, чтобы мы могли составить для вас оптимальную программу тренировок 
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="3b7e2dd4"
+                        data-type="textarea"
+                        data-is-required="0"
+                                            ><div class="form-field-text"><textarea
+            class="form-field-text--input form-field-text--textarea autosize"
+            name="form[3b7e2dd4]"
+            rows="2"
+            autocomplete="off"
+            data-check="textarea"
+                        required
+        ></textarea><hr class="border"><label class="form-field-title">Заболевания</label><div class="error"></div></div><div class="form-field-hidden"><input type="hidden" name="type[3b7e2dd4]" value="textarea"><input type="hidden" name="vars[3b7e2dd4]" value="Заболевания"></div></div></div></div><div
+            class="step"
+            data-id="3fb53d2d"
+            data-index="8"
+            data-real-index="8"
+                                    data-type="root"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="9"
+        ><div class="step-title text-style-title font-size-h3">
+                Выберите ваш город
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="f2b2d358"
+                        data-type="select"
+                        data-is-required="0"
+                                            ><div class="form-field-select"><div class="select-outer"><select class="atom-custom-select" name="form[f2b2d358]" placeholder=""><option
+                         selected="selected"                        data-id="bb3d834a"
+                        data-goto="e3f4a8f4"
+                    >
+                        Москва
+                    </option><option
+                                                data-id="1dc528e0"
+                        data-goto="9733dce5"
+                    >
+                        Санкт-Петербург
+                    </option><option
+                                                data-id="2acf702c"
+                        data-goto="4bf0a920"
+                    >
+                        Калининград
+                    </option></select></div><label class="form-field-title">
+                Город
+            </label></div><div class="form-field-hidden"><input type="hidden" name="type[f2b2d358]" value="select"><input type="hidden" name="vars[f2b2d358]" value="Город"></div></div></div></div><div
+            class="step"
+            data-id="e3f4a8f4"
+            data-index="9"
+            data-real-index="9"
+                                    data-type="nested"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="10"
+        ><div class="step-title text-style-title font-size-h3">
+                Выберите адрес
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="256b821c"
+                        data-type="checkbox"
+                        data-is-required="true"
+                                            ><div class="form-field-checkbox-list"><label class="variant-item form-field-checkbox-item"><input
+                    type="checkbox"
+                    class="form-field-checkbox--input"
+                    name="form[256b821c][]"
+                    value="ул. Ленина, 15"
+                                        data-id="f88a33d7"
+                    data-goto="next"
+                /><span class="form-field-checkbox--box"><i></i></span><span class="form-field-checkbox--name">
+                    ул. Ленина, 15
+                </span></label><label class="variant-item form-field-checkbox-item"><input
+                    type="checkbox"
+                    class="form-field-checkbox--input"
+                    name="form[256b821c][]"
+                    value="пр. Мира, 43"
+                                        data-id="9541c9f2"
+                    data-goto="next"
+                /><span class="form-field-checkbox--box"><i></i></span><span class="form-field-checkbox--name">
+                    пр. Мира, 43
+                </span></label></div><div class="form-field-hidden"><input type="hidden" name="type[256b821c]" value="checkbox"><input type="hidden" name="vars[256b821c]" value="Адрес"></div></div></div></div><div
+            class="step"
+            data-id="9733dce5"
+            data-index="10"
+            data-real-index="10"
+                                    data-type="nested"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="11"
+        ><div class="step-title text-style-title font-size-h3">
+                Выберите адрес
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="6dcf890e"
+                        data-type="checkbox"
+                        data-is-required="true"
+                                            ><div class="form-field-checkbox-list"><label class="variant-item form-field-checkbox-item"><input
+                    type="checkbox"
+                    class="form-field-checkbox--input"
+                    name="form[6dcf890e][]"
+                    value="пр. Победы, 23"
+                                        data-id="572d3f02"
+                    data-goto="next"
+                /><span class="form-field-checkbox--box"><i></i></span><span class="form-field-checkbox--name">
+                    пр. Победы, 23
+                </span></label><label class="variant-item form-field-checkbox-item"><input
+                    type="checkbox"
+                    class="form-field-checkbox--input"
+                    name="form[6dcf890e][]"
+                    value="ул. Портовая, 12"
+                                        data-id="e417c3f4"
+                    data-goto="next"
+                /><span class="form-field-checkbox--box"><i></i></span><span class="form-field-checkbox--name">
+                    ул. Портовая, 12
+                </span></label></div><div class="form-field-hidden"><input type="hidden" name="type[6dcf890e]" value="checkbox"><input type="hidden" name="vars[6dcf890e]" value="Адрес"></div></div></div></div><div
+            class="step"
+            data-id="4bf0a920"
+            data-index="11"
+            data-real-index="11"
+                                    data-type="nested"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="12"
+        ><div class="step-title text-style-title font-size-h3">
+                Выберите адрес
+            </div><div class="quiz-fields" data-count="1"><div class="field"
+                        data-field-id="44dc7fe9"
+                        data-type="checkbox"
+                        data-is-required="true"
+                                            ><div class="form-field-checkbox-list"><label class="variant-item form-field-checkbox-item"><input
+                    type="checkbox"
+                    class="form-field-checkbox--input"
+                    name="form[44dc7fe9][]"
+                    value="ул. Баранова, 30"
+                                        data-id="a5c262ce"
+                    data-goto="next"
+                /><span class="form-field-checkbox--box"><i></i></span><span class="form-field-checkbox--name">
+                    ул. Баранова, 30
+                </span></label><label class="variant-item form-field-checkbox-item"><input
+                    type="checkbox"
+                    class="form-field-checkbox--input"
+                    name="form[44dc7fe9][]"
+                    value="пр. Ленинский, 34"
+                                        data-id="7ffb8385"
+                    data-goto="next"
+                /><span class="form-field-checkbox--box"><i></i></span><span class="form-field-checkbox--name">
+                    пр. Ленинский, 34
+                </span></label><label class="variant-item form-field-checkbox-item"><input
+                    type="checkbox"
+                    class="form-field-checkbox--input"
+                    name="form[44dc7fe9][]"
+                    value="ул. Театральная, 30"
+                                        data-id="233ae1a5"
+                    data-goto="next"
+                /><span class="form-field-checkbox--box"><i></i></span><span class="form-field-checkbox--name">
+                    ул. Театральная, 30
+                </span></label></div><div class="form-field-hidden"><input type="hidden" name="type[44dc7fe9]" value="checkbox"><input type="hidden" name="vars[44dc7fe9]" value="Адрес"></div></div></div></div><div
+            class="step"
+            data-id="2242388f"
+            data-index="12"
+            data-real-index="12"
+                                    data-type="root"
+            data-linked="linked"
+            data-goto="next"
+            tabindex="13"
+        ><div class="step-title text-style-title font-size-h3">
+                Укажите ваши контактные данные 
+            </div><div class="quiz-fields" data-count="3"><div class="field"
+                        data-field-id="3b683b8b"
+                        data-type="name"
+                        data-is-required="1"
+                                            ><div class="form-field-text"><input
+            type="text"
+            class="form-field-text--input"
+            name="form[3b683b8b]"
+            autocomplete="off"
+            data-check="name"
+                        data-required="true"            required
+        /><hr class="border"><label class="form-field-title">Имя *</label><div class="error"></div></div><div class="form-field-hidden"><input type="hidden" name="type[3b683b8b]" value="name"><input type="hidden" name="vars[3b683b8b]" value="Имя"></div></div><div class="field"
+                        data-field-id="5d050b52"
+                        data-type="phone"
+                        data-is-required="1"
+                                            ><div class="form-field-text"><input
+            type="tel"
+            class="form-field-text--input"
+            name="form[5d050b52]"
+            autocomplete="off"
+            data-check="phone"
+                        data-required="true"            required
+        /><hr class="border"><label class="form-field-title">Телефон *</label><div class="error"></div></div><div class="form-field-hidden"><input type="hidden" name="type[5d050b52]" value="phone"><input type="hidden" name="vars[5d050b52]" value="Телефон"></div></div><div class="field"
+                        data-field-id="d4f543c0"
+                        data-type="email"
+                        data-is-required="false"
+                                            ><div class="form-field-text"><input
+            type="email"
+            class="form-field-text--input"
+            name="form[d4f543c0]"
+            autocomplete="off"
+            data-check="email"
+                                    required
+        /><hr class="border"><label class="form-field-title">Email</label><div class="error"></div></div><div class="form-field-hidden"><input type="hidden" name="type[d4f543c0]" value="email"><input type="hidden" name="vars[d4f543c0]" value="Email"></div></div></div></div></div></form><!-- quiz actions --><div class="quiz-actions"><a class="component-button quiz-prev filled squared transparent size--medium effect--opacity" data-quiz-action="prev"><div class="btn-content btn-content-icon"><span class="btn-icon"><svg class="social-icon"><use xlink:href="/_s/images/v3/theme/4/res/button.svg#arrow-left"></use></svg></span></div></a><a class="component-button quiz-next filled squared size--medium effect--opacity" data-quiz-action="next"><div class="btn-content btn-content-text"><div class="submitting-status"><span class="icon"><svg class="circular-loader"viewBox="25 25 50 50"><circle class="loader-path" cx="50" cy="50" r="20" /></svg></span></div><svg class="success-icon" viewBox="0 0 18 14" xmlns="http://www.w3.org/2000/svg"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text">
+                    Далее
+                </span></div></a><div class="suggestion-next">
+            или нажмите Enter
+        </div></div></div></div></div> </div> </div><div class="m_modal m_done78930" data-is="modal" data-id="done78930" data-m-id="GRID" data-mod-id="6"    data-components='[&quot;background&quot;]'> <div class="modal-data" data-contrast="light"> <div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><div class="scroller" data-overlay="true"><div class="modal-content width--small"><a class="close close-times"></a><div
+            class="flexbe-row-list gap-zero gap-am-zero layout-type-column"
+                    ><div class=" flexbe-row align-items-stretch justify-content-start" data-item-id="1"><div class="content-zone flexbe-column only-column first-column last-column fill-color radius-small"
+    data-is="zone"
+    data-id="925085"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="modal"
+    data-components="[]"
+            data-cols="24"
+            data-item-id="1"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-small px-50 py-50 align-items-center justify-content-start text-center" data-direction="y"><div class="element-item is-first-child justify-content-center align-items-start"   data-is="element" data-id="110001" data-e-id="icon01" data-mod-id="0"  data-components='[&quot;icon&quot;]'   ><div class="element-content"><div class="component-icon size--medium style--filled color--custom border--medium shape--round cover--contain" data-component="icon"><div class="icon vector-icon"><svg  viewBox="0 0 50 50"  xmlns="http://www.w3.org/2000/svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/_s/images/svg/solid/266.svg#icon"></use></svg></div></div></div></div><div class="element-item justify-content-center align-items-start"   data-is="element" data-id="997566" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Спасибо за заказ</p></div></div></div><div class="element-item justify-content-center align-items-start"   data-is="element" data-id="747065" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p>Ваш заказ принят в обработку. </p><p>Мы свяжемся с вами в ближайшее время</p></div></div></div><div class="element-item is-last-child justify-content-center align-items-start"   data-is="element" data-id="677679" data-e-id="button01" data-mod-id="single_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-disabled"><div class="buttons-holder single no-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--opacity"
+        data-action="close"
+                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Готово</span></div></a></div></div></div></div></div></div></div></div></div></div></div> </div> </div><div class="m_modal m_form13705" data-is="modal" data-id="form13705" data-m-id="GRID" data-mod-id="4"    data-components='[&quot;background&quot;]'> <div class="modal-data" data-contrast="light"> <div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><div class="scroller" data-overlay="true"><div class="modal-content width--small"><a class="close close-times"></a><div
+            class="flexbe-row-list gap-zero gap-am-zero layout-type-column"
+                    ><div class=" flexbe-row align-items-stretch justify-content-start" data-item-id="1"><div class="content-zone flexbe-column only-column first-column last-column fill-color radius-small"
+    data-is="zone"
+    data-id="307439"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="modal"
+    data-components="[]"
+            data-cols="24"
+            data-item-id="1"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-small px-40 py-40 align-items-center justify-content-start text-center" data-direction="y"><div class="element-item is-first-child justify-content-center align-items-start"   data-is="element" data-id="958535" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p><span style="font-weight: 700;">Оформить заявку</span></p></div></div></div><div class="element-item is-last-child justify-content-center align-items-start"   data-is="element" data-id="653907" data-e-id="form01" data-mod-id="0"  data-components='[&quot;form&quot;]'   ><div class="element-content"><div class="component-form form-fields style-filled  fields-count-3" data-style="style-filled" data-component="form"><form class="form-element" action="/mod/lead/send/" method="post" enctype="multipart/form-data" novalidate><div class="form_info"><input type="hidden" name="p_id" value="834854"><input type="hidden" name="id" value="form01"><input type="hidden" name="goal" value=""><textarea name="goal_html" style="display:none"></textarea><input type="hidden" name="name" value="Пример формы"><input type="hidden" name="action" value="modal"><input type="submit" hidden="hidden"></div><div class="form-fields" data-count="3"><div class="form-field" data-type="name" data-is-required="0"><div class="form-field-text"><input
+    type="text"
+    class="form-field-text--input"
+    name="form[273045]"
+    autocomplete="on"
+    data-check="name"            required
+/><hr class="border"><label class="form-field-title">Имя</label><div class="error"><span class="error-text"></span></div></div><div class="form-field-hidden"><input type="hidden" name="type[273045]" value="name"><input type="hidden" name="vars[273045]" value="Имя"></div></div><div class="form-field" data-type="phone" data-is-required="1"><div class="form-field-text"><input
+    type="tel"
+    class="form-field-text--input"
+    name="form[666702]"
+    autocomplete="on"
+    data-check="phone"    data-mask="phone"    data-required="true"    required
+/><hr class="border"><label class="form-field-title">Телефон *</label><div class="error"><span class="error-text"></span></div></div><div class="form-field-hidden"><input type="hidden" name="type[666702]" value="phone"><input type="hidden" name="vars[666702]" value="Телефон"></div></div><div class="form-field" data-type="email" data-is-required="0"><div class="form-field-text"><input
+    type="email"
+    class="form-field-text--input"
+    name="form[264311]"
+    autocomplete="on"
+    data-check="email"            required
+/><hr class="border"><label class="form-field-title">Email</label><div class="error"><span class="error-text"></span></div></div><div class="form-field-hidden"><input type="hidden" name="type[264311]" value="email"><input type="hidden" name="vars[264311]" value="Email"></div></div><div class="form_fields_advanced"></div><div class="form-submit"><a class="component-button form-field-submit effect--opacity weight--medium size--medium squared filled wide" data-modal-id="done78930"><div class="btn-content btn-content-text"><div class="submitting-status"><i class="icon"><svg class="circular-loader"viewBox="25 25 50 50"><circle class="loader-path" cx="50" cy="50" r="20" /></svg></i></div><svg class="success-icon" viewBox="0 0 18 14" xmlns="http://www.w3.org/2000/svg"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><div class="form-submit-text btn-text">Отправить</div></div></a></div></div></form></div></div></div></div></div></div></div></div></div> </div> </div><div class="m_modal m_done62573" data-is="modal" data-id="done62573" data-m-id="GRID" data-mod-id="6"    data-components='[&quot;background&quot;]'> <div class="modal-data" data-contrast="light"> <div class="component-bg bg-color "
+        data-type="color"
+        data-parallax="0"
+                data-component="background"><div class="overlay " data-opacity="1"></div></div><div class="scroller" data-overlay="true"><div class="modal-content width--small"><a class="close close-times"></a><div
+            class="flexbe-row-list gap-zero gap-am-zero layout-type-column"
+                    ><div class=" flexbe-row align-items-stretch justify-content-start" data-item-id="1"><div class="content-zone flexbe-column only-column first-column last-column fill-color radius-small"
+    data-is="zone"
+    data-id="344284"
+    data-e-id="zone"
+    data-mod-id="0"
+    data-zone-type="modal"
+    data-components="[]"
+            data-cols="24"
+            data-item-id="1"
+            data-contrast="dark"
+    ><div class="elements-list elements-list--vertical fill-color radius-small px-50 py-50 align-items-center justify-content-start text-center" data-direction="y"><div class="element-item is-first-child justify-content-center align-items-start"   data-is="element" data-id="936127" data-e-id="icon01" data-mod-id="0"  data-components='[&quot;icon&quot;]'   ><div class="element-content"><div class="component-icon size--large style--none color--custom border--medium shape--none cover--contain" data-component="icon"><div class="icon vector-icon"><svg  xmlns="http://www.w3.org/2000/svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/14994722.svg#icon"></use></svg></div></div></div></div><div class="element-item justify-content-center align-items-start"   data-is="element" data-id="469365" data-e-id="text01" data-mod-id="title_card_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-subtitle text-align-inherit"><p>Спасибо</p></div></div></div><div class="element-item justify-content-center align-items-start"   data-is="element" data-id="309582" data-e-id="text01" data-mod-id="text_ru"  data-components='[]'   ><div class="element-content"><div class="element-text text-style-content text-align-inherit"><p>Ваш заявка принята в обработку. </p><p>Мы свяжемся с вами в ближайшее время</p></div></div></div><div class="element-item is-last-child justify-content-center align-items-start"   data-is="element" data-id="512835" data-e-id="button01" data-mod-id="single_ru"  data-components='[&quot;button&quot;]'   ><div class="element-content text-position-disabled"><div class="buttons-holder single no-price"><div class="button-wrapper button-1 " data-item-id="1"><div class="button-container"><a class="component-button  filled rounded size--medium weight--medium effect--opacity"
+        data-action="close"
+                        data-component="button"><div class="btn-content btn-content-text"><svg class="btn-icon success-icon" viewBox="0 0 18 14"><path d="M 2.205 5.77223L 0 7.92347L 6.3 14L 18 2.15124L 15.795 0L 6.3 9.74699L 2.205 5.77223Z"/></svg><span class="btn-text" >Готово</span></div></a></div></div></div></div></div></div></div></div></div></div></div> </div> </div></div>
+                <div class="widget-list"><div class="w_widget w_anchors" data-is="widget" data-id="anchors" data-w-id="ANCHORS"  data-w-type='[&quot;anchors&quot;]'  > <div class="anchors-list" data-style="2" data-anchors="{&quot;style&quot;:2,&quot;show_title&quot;:1,&quot;list&quot;:[{&quot;id&quot;:600749,&quot;index&quot;:0,&quot;enabled&quot;:1,&quot;title&quot;:&quot;Наверх&quot;},{&quot;id&quot;:676679,&quot;index&quot;:5,&quot;enabled&quot;:1,&quot;title&quot;:&quot;Контакты&quot;},{&quot;id&quot;:375187,&quot;index&quot;:7,&quot;enabled&quot;:1,&quot;title&quot;:&quot;Отзывы&quot;}]}"><ul></ul></div> </div><div class="w_widget w_mobile_menu" data-is="widget" data-id="mobile_menu" data-w-id="MENU01"    > <nav class="mobile-navigation" data-opened="false" data-color="light" data-contrast="dark"><div class="nav-header"><div class="nav-header-container container"><div class="nav-header-content"></div><ul class="nav-header-controls"></ul></div></div><div class="nav-menu scroller" tabindex="1"><div class="nav-menu-container container"><div class="nav-menu-items-wrapper"><div class="nav-menu-item nav-menu-item--menu" data-element="header_menu"></div><div class="nav-menu-item nav-menu-item--text" data-element="header_text"></div><div class="nav-menu-item nav-menu-item--contacts" data-element="header_contacts"></div><div class="nav-menu-item nav-menu-item--social" data-element="header_social"></div><div class="nav-menu-item nav-menu-item--button" data-element="header_button"></div><div class="nav-menu-item nav-menu-item--html" data-element="header_html"></div></div></div></div></nav> </div></div>
+                
+                
+            <link class="font-setup-import" rel="stylesheet" href="//fonts.googleapis.com/css?family=Yeseva+One:300,300i,400,400i,500,500i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i|Playfair+Display:300,300i,400,400i,500,500i,700,700i&subset=latin,cyrillic"><style class="font-setup">body .text-style-title-main { font-family: "Yeseva One", Helvetica, Verdana, Roboto, sans-serif }
+body .text-style-title { font-family: Roboto, Helvetica, Verdana, Roboto, sans-serif }
+body .text-style-subtitle { font-family: Roboto, Helvetica, Verdana, Roboto, sans-serif }
+body { font-family: Roboto, Helvetica, Verdana, Roboto, sans-serif !important }
+body .text-style-quote { font-family: "Playfair Display", Helvetica, Verdana, Roboto, sans-serif }</style>
+<script src="/_s/lib/jquery/jquery-3.2.1+debounce.min.js" type="text/javascript"></script>
+<script defer src="/_s/theme/4/_core.js?1580463174059" type="text/javascript"></script>
+<script defer src="/_s/theme/4/_client.js?1580463174059" type="text/javascript"></script>
+<script id="flexbe-vars">
+if (typeof flexbe_cli !== 'object') flexbe_cli = {};
+flexbe_cli.s_id = 498501;
+flexbe_cli.group_id = 361813;
+flexbe_cli.p_id = 834854;
+flexbe_cli.p_type = 0;
+flexbe_cli.theme_id = 4;
+flexbe_cli.is_admin = false;
+flexbe_cli.responsive = 1;
+flexbe_cli.google_maps_api_key = '';
+flexbe_cli.yandex_maps_api_key = '';
+flexbe_cli.style_cookies = 'right_bottom';
+flexbe_cli.show_cookies = 0;
+</script>
+<script id="flexbe-lang">
+if (typeof flexbe_cli.locale !== 'object') flexbe_cli.locale = {};
+flexbe_cli.locale.language = "ru";
+flexbe_cli.locale.country = "BY";
+flexbe_cli.locale.translation = {"calendar":{"days":{"fr":"Пт","mo":"Пн","sa":"Сб","su":"Вс","th":"Чт","tu":"Вт","we":"Ср"},"errors":{"invalid_date":"Некорректная дата"},"month_d":{"april":"Апреля","august":"Августа","december":"Декабря","february":"Февраля","january":"Января","july":"Июля","june":"Июня","march":"Марта","may":"Мая","november":"Ноября","october":"Октября","september":"Сентября"},"month":{"april":"Апрель","august":"Август","december":"Декабрь","february":"Февраль","january":"Январь","july":"Июль","june":"Июнь","march":"Март","may":"Май","november":"Ноябрь","october":"Октябрь","september":"Сентябрь"}},"cart":{"empty":"Корзина пуста"},"cookies":{"button":"Согласен","compact_text":"Мы используем файлы cookie, чтобы улучшить работу сайта.","long_text":"Этот сайт использует cookie для хранения данных. Продолжая использовать сайт, Вы даете свое согласие на работу с этими файлами."},"form":{"digits":"Поле должно содержать только цифры","email":"Некорректный адрес электронной почты","filesMult":"файл","filesMult1":"файла","filesMult2":"файлов","minlength":"Минимальная длина - 5 цифр","personal_data_text":"<p><span class=\"policy-message\">Нажимая на кнопку, вы даете согласие на обработку&nbsp;</span><a href=\"%file%\" class=\"policy-link\" target=\"_blank\">персональных данных</a></p>","phone":"Некорректный номер телефона","remove":"Удалить","required":"Поле должно быть заполнено","selectFiles":"Выберите файлы"},"main":{"copyright_text":"Создано на платформе"},"menu":"Меню","pay":{"billNo":"Счет №","close":"Закрыть","isPayed":"был оплачен","issuingBillNo":"Оплата счета №","loading":"Загрузка...","methods":{"bank_card":"Банковская карта","cash":"Наличными","mobile_beeline":"Билайн","mobile_mts":"МТС","qiwi":"QIWI Кошелек","sberbank":"Сбербанк","w1":"Единый кошелёк","webmoney":"WebMoney R","webmoney_z":"WebMoney Z","yandex":"Яндекс.Деньги","yandexkassa":"Яндекс.Касса"},"onceAgain":"Еще раз","pay":"Оплатить","paymentFailure":"Ошибка при оплате","paymentMethods":"Выберите способ оплаты","paymentSuccess":"Оплата прошла успешно","sumToPay":"Сумма к оплате","thanxForOrder":"Спасибо за заказ!","tryAgain":"Попробуйте позже или выберите другой способ оплаты"},"quiz":{"cancel":"Отмена","from":"из","next":"Далее","pressEnter":"или нажмите Enter","prev":"Назад","skip":"Пропустить шаг","step":"Шаг","submit":"Отправить"},"social":{"behance":"Behance","dribble":"Dribbble","fb":"Facebook","in":"LinkedIn","instagram":"Instagram","ok":"Одноклассники","p":"Pinterest","periscope":"Periscope","skype":"Skype","snapchat":"Snapchat","telegram":"Telegram","tripadvisor":"TripAdvisor","twitter":"Twitter","viber":"Viber","vimeo":"Vimeo","vk":"ВКонтакте","whatsapp":"WhatsApp","yt":"YouTube"},"timer":{"dd":"Дней","hh":"Часов","mm":"Минут","ss":"Секунд"}};
+flexbe_cli.locale.currency = {"code":"BYN","symbol":"руб.","decimals":2};
+flexbe_cli.locale.currency_format = {"str":":value :symbol","t":" ","d":","};
+</script>
+</body>
+</html>
